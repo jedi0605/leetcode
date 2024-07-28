@@ -7,9 +7,7 @@ class Solution:
         left = bisect_left(nums, target)
         right = bisect_right(nums, target) - 1
         print([left, right])
-        if left == len(nums):
-            return [-1, -1]
-        if nums[right]!=target:
+        if left == len(nums) or nums[right]!=target:
             return [-1, -1]
         # if nums[left] != target or nums[right] != target:
             # return [-1, -1]
