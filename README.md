@@ -10,6 +10,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jedi0605/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/jedi0605/leetcode/tree/master/0792-binary-search) |
 | [1137-height-checker](https://github.com/jedi0605/leetcode/tree/master/1137-height-checker) |
+| [1249-snapshot-array](https://github.com/jedi0605/leetcode/tree/master/1249-snapshot-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jedi0605/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Sorting
 |  |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [1023-time-based-key-value-store](https://github.com/jedi0605/leetcode/tree/master/1023-time-based-key-value-store) |
+| [1249-snapshot-array](https://github.com/jedi0605/leetcode/tree/master/1249-snapshot-array) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/jedi0605/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## String
 |  |
@@ -40,6 +42,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jedi0605/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/jedi0605/leetcode/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/jedi0605/leetcode/tree/master/1023-time-based-key-value-store) |
+| [1249-snapshot-array](https://github.com/jedi0605/leetcode/tree/master/1249-snapshot-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jedi0605/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
@@ -49,4 +52,5 @@
 |  |
 | ------- |
 | [1023-time-based-key-value-store](https://github.com/jedi0605/leetcode/tree/master/1023-time-based-key-value-store) |
+| [1249-snapshot-array](https://github.com/jedi0605/leetcode/tree/master/1249-snapshot-array) |
 <!---LeetCode Topics End-->
