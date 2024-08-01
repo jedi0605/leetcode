@@ -44,6 +44,7 @@
 | [0035-search-insert-position](https://github.com/jedi0605/leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jedi0605/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jedi0605/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0278-first-bad-version](https://github.com/jedi0605/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/jedi0605/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/jedi0605/leetcode/tree/master/0436-find-right-interval) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jedi0605/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -63,5 +64,6 @@
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/jedi0605/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/jedi0605/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
