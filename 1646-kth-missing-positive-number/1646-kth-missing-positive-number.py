@@ -7,8 +7,7 @@ class Solution:
             if i not in mapping:
                 cnt+=1
             if cnt == k:
-                res= i
-                break
-        return res
+                return i
+        
             
   
