@@ -10,6 +10,7 @@
 | [0074-search-a-2d-matrix](https://github.com/jedi0605/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jedi0605/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jedi0605/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0274-h-index](https://github.com/jedi0605/leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/jedi0605/leetcode/tree/master/0275-h-index-ii) |
 | [0436-find-right-interval](https://github.com/jedi0605/leetcode/tree/master/0436-find-right-interval) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jedi0605/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -23,11 +24,13 @@
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/jedi0605/leetcode/tree/master/0274-h-index) |
 | [0436-find-right-interval](https://github.com/jedi0605/leetcode/tree/master/0436-find-right-interval) |
 | [1137-height-checker](https://github.com/jedi0605/leetcode/tree/master/1137-height-checker) |
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/jedi0605/leetcode/tree/master/0274-h-index) |
 | [1137-height-checker](https://github.com/jedi0605/leetcode/tree/master/1137-height-checker) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/jedi0605/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Hash Table
