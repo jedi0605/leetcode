@@ -13,6 +13,7 @@
 | [0274-h-index](https://github.com/jedi0605/leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/jedi0605/leetcode/tree/master/0275-h-index-ii) |
 | [0436-find-right-interval](https://github.com/jedi0605/leetcode/tree/master/0436-find-right-interval) |
+| [0540-single-element-in-a-sorted-array](https://github.com/jedi0605/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jedi0605/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/jedi0605/leetcode/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [0792-binary-search](https://github.com/jedi0605/leetcode/tree/master/0792-binary-search) |
@@ -60,6 +61,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/jedi0605/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/jedi0605/leetcode/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/jedi0605/leetcode/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/jedi0605/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jedi0605/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/jedi0605/leetcode/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [0792-binary-search](https://github.com/jedi0605/leetcode/tree/master/0792-binary-search) |
