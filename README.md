@@ -15,6 +15,7 @@
 | [0275-h-index-ii](https://github.com/jedi0605/leetcode/tree/master/0275-h-index-ii) |
 | [0436-find-right-interval](https://github.com/jedi0605/leetcode/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jedi0605/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/jedi0605/leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/jedi0605/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jedi0605/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/jedi0605/leetcode/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
@@ -31,6 +32,7 @@
 | ------- |
 | [0274-h-index](https://github.com/jedi0605/leetcode/tree/master/0274-h-index) |
 | [0436-find-right-interval](https://github.com/jedi0605/leetcode/tree/master/0436-find-right-interval) |
+| [0611-valid-triangle-number](https://github.com/jedi0605/leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/jedi0605/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1083-two-sum-less-than-k](https://github.com/jedi0605/leetcode/tree/master/1083-two-sum-less-than-k) |
 | [1137-height-checker](https://github.com/jedi0605/leetcode/tree/master/1137-height-checker) |
@@ -69,6 +71,7 @@
 | [0436-find-right-interval](https://github.com/jedi0605/leetcode/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/jedi0605/leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jedi0605/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/jedi0605/leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/jedi0605/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jedi0605/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/jedi0605/leetcode/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
@@ -106,6 +109,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/jedi0605/leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/jedi0605/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1083-two-sum-less-than-k](https://github.com/jedi0605/leetcode/tree/master/1083-two-sum-less-than-k) |
 ## Sliding Window
@@ -120,4 +124,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jedi0605/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/jedi0605/leetcode/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
