@@ -10,9 +10,17 @@ class Solution:
 
     def pickIndex(self) -> int:
         # self.total
-        num =  random.randint(1, self.total)
-        #bisect_left(self.arr, num)
+        num = random.randint(1, self.total)
+        # l, r = -1, len(self.arr)
+        # while l + 1 != r:
+        #     mid = (l + r) // 2
+        #     if self.arr[mid] < num:
+        #         l = mid
+        #     else:
+        #         r = mid
+        # return 0 if r == len(self.arr) else r                
         return bisect_left(self.arr, num)
+
     # # brute force
     # def __init__(self, w: List[int]):
     #     # [1,3] => [1,2,2,2] means index 1 have 1weight, index 2 have 3 weight
