@@ -11,15 +11,15 @@ class Solution:
     def pickIndex(self) -> int:
         # self.total
         num = random.randint(1, self.total)
-        # l, r = -1, len(self.arr)
-        # while l + 1 != r:
-        #     mid = (l + r) // 2
-        #     if self.arr[mid] < num:
-        #         l = mid
-        #     else:
-        #         r = mid
-        # return 0 if r == len(self.arr) else r                
-        return bisect_left(self.arr, num)
+        l, r = -1, len(self.arr)
+        while l + 1 != r:
+            mid = (l + r) // 2
+            if self.arr[mid] < num:
+                l = mid
+            else:
+                r = mid
+        return 0 if r == len(self.arr) else r
+        # return bisect_left(self.arr, num)
 
     # # brute force
     # def __init__(self, w: List[int]):
