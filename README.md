@@ -35,6 +35,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jedi0605/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/jedi0605/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1672-find-the-index-of-the-large-integer](https://github.com/jedi0605/leetcode/tree/master/1672-find-the-index-of-the-large-integer) |
+| [1753-path-with-minimum-effort](https://github.com/jedi0605/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jedi0605/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
@@ -102,12 +103,14 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jedi0605/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/jedi0605/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1672-find-the-index-of-the-large-integer](https://github.com/jedi0605/leetcode/tree/master/1672-find-the-index-of-the-large-integer) |
+| [1753-path-with-minimum-effort](https://github.com/jedi0605/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jedi0605/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/jedi0605/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jedi0605/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/jedi0605/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Design
 |  |
 | ------- |
@@ -144,6 +147,7 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/jedi0605/leetcode/tree/master/0658-find-k-closest-elements) |
+| [1753-path-with-minimum-effort](https://github.com/jedi0605/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -165,4 +169,16 @@
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/jedi0605/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/jedi0605/leetcode/tree/master/0354-russian-doll-envelopes) |
+## Depth-First Search
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/jedi0605/leetcode/tree/master/1753-path-with-minimum-effort) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/jedi0605/leetcode/tree/master/1753-path-with-minimum-effort) |
+## Union Find
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/jedi0605/leetcode/tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
