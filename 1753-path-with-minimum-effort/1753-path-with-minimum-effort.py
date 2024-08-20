@@ -1,22 +1,25 @@
 class Solution:
     def minimumEffortPath(self, heights: List[List[int]]) -> int:
+        # using BFS and Heap
         ROW, COL = len(heights), len(heights[0])
         heap = [[0, 0, 0]]  # diff, row, col
         visit = set()
-        dirt = [[1, 0], [0, 1], [-1, 0], [0, -1]]
 
         while heap:
-            diff, cr, cc = heappop(heap)
-            if cr == ROW - 1 and cc == COL - 1:
+            diff, c_row, c_col =heappop(heap)            
+            if c_row == ROW -1 and c_col == COL-1:
                 return diff
-            if (cr,cc) in visit:
+            if (c_row,c_col) in visit:
                 continue
-            visit.add((cr, cc))
-            for dirt_r, dirt_c in dirt:
-                new_r, new_c = cr + dirt_r, cc + dirt_c
-                if new_r < 0 or new_c < 0 or new_r == ROW or new_c == COL:
+            visit.add((c_row, c_col))
+            
+            DIR = [[1, 0], [-1, 0], [0, 1], [0, -1]]
+            for d_r, d_c in DIR:
+                new_r, new_c = c_row + d_r, c_col + d_c
+                if new_r < 0 or new_c < 0 or new_c == COL or new_r == ROW:
                     continue
                 if (new_r, new_c) in visit:
                     continue
-                new_diff = max(diff, abs(heights[cr][cc] - heights[new_r][new_c]))
-                heappush(heap, (new_diff, new_r, new_c))
+                new_diff = 0
+                new_diff = max(diff, abs(heights[c_row][c_col] - heights[new_r][new_c]))
+                heappush(heap,(new_diff,new_r,new_c))
