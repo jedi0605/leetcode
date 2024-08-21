@@ -31,6 +31,7 @@
 | [1137-height-checker](https://github.com/jedi0605/leetcode/tree/master/1137-height-checker) |
 | [1192-divide-chocolate](https://github.com/jedi0605/leetcode/tree/master/1192-divide-chocolate) |
 | [1249-snapshot-array](https://github.com/jedi0605/leetcode/tree/master/1249-snapshot-array) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/jedi0605/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jedi0605/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jedi0605/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/jedi0605/leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -47,6 +48,7 @@
 | [0658-find-k-closest-elements](https://github.com/jedi0605/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1083-two-sum-less-than-k](https://github.com/jedi0605/leetcode/tree/master/1083-two-sum-less-than-k) |
 | [1137-height-checker](https://github.com/jedi0605/leetcode/tree/master/1137-height-checker) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/jedi0605/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jedi0605/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jedi0605/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Counting Sort
@@ -99,6 +101,7 @@
 | [1083-two-sum-less-than-k](https://github.com/jedi0605/leetcode/tree/master/1083-two-sum-less-than-k) |
 | [1192-divide-chocolate](https://github.com/jedi0605/leetcode/tree/master/1192-divide-chocolate) |
 | [1249-snapshot-array](https://github.com/jedi0605/leetcode/tree/master/1249-snapshot-array) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/jedi0605/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jedi0605/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jedi0605/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/jedi0605/leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -171,6 +174,7 @@
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/jedi0605/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/jedi0605/leetcode/tree/master/0354-russian-doll-envelopes) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/jedi0605/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Depth-First Search
 |  |
 | ------- |
