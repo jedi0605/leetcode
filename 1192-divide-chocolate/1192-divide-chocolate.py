@@ -6,21 +6,23 @@ class Solution:
             for s in sweetness:
                 total += s
                 if total >= mid:
-                    total = 0
                     chunk += 1
-            return chunk >= k + 1
+                    total = 0
+
+            return chunk >= k +1
 
         l, r = min(sweetness), sum(sweetness)
         ans = 1
-        while l<= r:
+        while l <= r:
             mid = (l + r) // 2
             if canSplit(mid):
                 ans = mid
                 l = mid + 1
             else:
-                r = mid -1
+                r = mid - 1
         return ans
-
+        # n = len(sweetness)
+        # result = []
         # def dfs(start, remaining_chunks, current_split):
         #     if remaining_chunks == 0:
         #         if start == n:
@@ -28,12 +30,13 @@ class Solution:
         #         return
 
         #     for i in range(start, n):
-        #         chunk = sweetness[start:i+1]
+        #         chunk = sweetness[start : i + 1]
         #         current_split.append(chunk)
         #         dfs(i + 1, remaining_chunks - 1, current_split)
         #         current_split.pop()
 
-        # dfs(0, k+1, [])
+        # dfs(0, k + 1, [])
+        # print(result)
         # global_max = float("-inf")
         # for r in result:
         #     local_min = float("inf")
