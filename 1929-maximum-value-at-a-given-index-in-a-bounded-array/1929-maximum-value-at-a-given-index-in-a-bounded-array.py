@@ -33,7 +33,7 @@ class Solution:
         #             r+=1
         #     # print(arr)
         #     return sum(arr) <= maxSum
-        l, r = 0, maxSum
+        l, r = 1, maxSum
         res = 0
         while l <= r:
             m = (l + r) // 2
