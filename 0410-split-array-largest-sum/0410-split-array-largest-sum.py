@@ -13,7 +13,7 @@ class Solution:
 
         print(work(18))
         print(work(17))
-        l = len(nums)
+        l = max(nums)
         r = sum(nums)
         ans = 0
         while l < r:
