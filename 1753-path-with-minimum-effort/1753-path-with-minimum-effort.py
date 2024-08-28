@@ -1,29 +1,26 @@
 class Solution:
     def minimumEffortPath(self, heights: List[List[int]]) -> int:
+        DIRT = [[0, 1], [0, -1], [1, 0], [-1, 0]]
         ROW, COL = len(heights), len(heights[0])
-        heap = [[0, 0, 0]]  # diff, row, COL
+        heap = [[0, 0, 0]]  # diff row col
         visit = set()
-        DIR = [[1, 0], [0, 1], [-1, 0], [0, -1]]
+
         while heap:
-            diff, c_r, c_l = heappop(heap)
-            if c_r == ROW - 1 and c_l == COL - 1:
+            diff, c_r, c_c = heappop(heap)
+            if c_r == ROW - 1 and c_c == COL - 1:
                 return diff
-            if (c_r, c_l) in visit:
+            if (c_r, c_c) in visit:
                 continue
-            visit.add((c_r, c_l))
-            for r, l in DIR:
-                new_r = c_r + r
-                new_l = c_l + l
-                # if 0 <= new_r < ROW == False and 0 <= new_l < COL == False:
-                #     continue
+            visit.add((c_r, c_c))
+            for d_r, d_c in DIRT:
+                n_r, n_c = c_r + d_r, c_c + d_c
                 if (
-                    new_r < 0
-                    or new_l < 0
-                    or new_r == ROW
-                    or new_l == COL
-                    or (new_r, new_l) in visit
+                    n_r < 0
+                    or n_c < 0
+                    or n_r == ROW
+                    or n_c == COL
+                    or (n_r, n_c) in visit
                 ):
                     continue
-                print(f"{new_r},{new_l}")
-                cur_diff = max(diff, abs(heights[c_r][c_l] - heights[new_r][new_l]))
-                heappush(heap, (cur_diff, new_r, new_l))
+                new_diff = max(diff, abs(heights[n_r][n_c] - heights[c_r][c_c]))
+                heappush(heap, [new_diff,n_r,n_c])
