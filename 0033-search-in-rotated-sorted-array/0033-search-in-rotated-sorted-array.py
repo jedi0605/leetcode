@@ -24,8 +24,9 @@ class Solution:
                     r = mid
             return r
 
-
-        small_idx = bSearch(nums)
+        small_idx = 0
+        if nums[0] > nums[-1]:  # have rotated
+            small_idx = bSearch(nums)
         start, end = 0, 0
 
         if nums[small_idx] <= target <= nums[-1]:  # right side
