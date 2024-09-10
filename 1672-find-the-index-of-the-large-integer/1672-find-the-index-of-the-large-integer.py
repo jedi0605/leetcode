@@ -18,7 +18,7 @@ class Solution:
     def getIndex(self, reader: 'ArrayReader') -> int:
         size = reader.length()
         l,r = 0,size -1
-        while l< r:
+        while l<= r:
             mid = (l+r) // 2
             sub_size = (r-l)+1
             res = 0
@@ -33,4 +33,4 @@ class Solution:
                 l = mid+1
             else:
                 return mid
-        return l
+        return -1
