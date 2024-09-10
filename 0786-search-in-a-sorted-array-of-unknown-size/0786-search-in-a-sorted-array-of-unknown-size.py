@@ -7,16 +7,15 @@
 
 class Solution:
     def search(self, reader: 'ArrayReader', target: int) -> int:
-        l,r = -1 , 10_000
-        while l + 1 !=r:
-            mid = (l+r)//2
-            print(mid)
-            res = reader.get(mid)            
-            if res == 2**31 -1:
-                r = mid
-                continue            
-            if res < target:
+        
+        l,r = -1 , 100_1000
+        ans = 0
+        while l+1!=r:
+            mid = (l+r) // 2
+            ans = reader.get(mid)
+            print(ans)
+            if ans< target:
                 l = mid
             else:
                 r = mid
-        return r if reader.get(r) == target else -1 
+        return r if reader.get(r) == target else -1
