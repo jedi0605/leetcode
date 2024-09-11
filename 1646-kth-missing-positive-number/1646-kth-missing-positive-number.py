@@ -1,13 +1,10 @@
 class Solution:
     def findKthPositive(self, arr: List[int], k: int) -> int:
-        mapping = set(arr)
-        cnt = 0
-        res = 0
-        for i in range(1,10000):
-            if i not in mapping:
-                cnt+=1
-            if cnt == k:
-                return i
-        
-            
-  
+        maps = set(arr)
+        miss = 0
+        for i in range(1,2002):
+            if i not in maps:
+                miss+=1
+                if miss == k:
+                    return i
+        return -1
