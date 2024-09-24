@@ -14,8 +14,8 @@ class Solution:
             while heap and s >= heap[0][0]:
                 end, cur_p = heapq.heappop(heap)
                 max_p = max(max_p,cur_p)
-            heapq.heappush(heap, [e, p + cur_p])
-        print(heap)
+            heapq.heappush(heap, [e, p + max_p])
+
         for e,p in heap:
             max_p = max(max_p,p)
         return max_p
