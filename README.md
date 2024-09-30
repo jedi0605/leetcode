@@ -72,6 +72,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jedi0605/leetcode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/jedi0605/leetcode/tree/master/0125-valid-palindrome) |
 | [1023-time-based-key-value-store](https://github.com/jedi0605/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/jedi0605/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Binary Search
@@ -145,6 +146,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/jedi0605/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/jedi0605/leetcode/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/jedi0605/leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/jedi0605/leetcode/tree/master/0658-find-k-closest-elements) |
