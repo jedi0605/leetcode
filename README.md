@@ -70,6 +70,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jedi0605/leetcode/tree/master/0020-valid-parentheses) |
 | [1023-time-based-key-value-store](https://github.com/jedi0605/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/jedi0605/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Binary Search
@@ -196,4 +197,8 @@
 |  |
 | ------- |
 | [1753-path-with-minimum-effort](https://github.com/jedi0605/leetcode/tree/master/1753-path-with-minimum-effort) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jedi0605/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
