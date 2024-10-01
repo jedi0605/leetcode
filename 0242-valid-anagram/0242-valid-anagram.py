@@ -1,5 +1,6 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
+        return Counter(s) == Counter(t)
         cnt = Counter(s)
         print(cnt)
         for cht in t:
