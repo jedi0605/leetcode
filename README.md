@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jedi0605/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/jedi0605/leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/jedi0605/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/jedi0605/leetcode/tree/master/0242-valid-anagram) |
 | [1023-time-based-key-value-store](https://github.com/jedi0605/leetcode/tree/master/1023-time-based-key-value-store) |
@@ -187,6 +188,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jedi0605/leetcode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jedi0605/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/jedi0605/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/jedi0605/leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -226,4 +228,8 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/jedi0605/leetcode/tree/master/0226-invert-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/jedi0605/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
