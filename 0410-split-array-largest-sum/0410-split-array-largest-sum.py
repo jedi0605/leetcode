@@ -1,43 +1,41 @@
 class Solution:
     def splitArray(self, nums: List[int], k: int) -> int:
-
-        def work_chunk(total_sum):
+        
+        def work_chuck(chuck):
             total = 0
-            chunk = 0
+            cur = 0
             for n in nums:
-                total += n
-                if total > total_sum:
-                    total = n
-                    chunk += 1
-            return chunk + 1
-
-        l, r = max(nums), sum(nums)
-
-        while l < r:
-            mid = (l + r) // 2
-            if work_chunk(mid) > k:
+                cur += n
+                if cur > chuck:
+                    total+=1
+                    cur = n
+            return total+1
+        print( work_chuck(18))
+        l,r = max(nums), sum(nums)
+        while l<r:
+            mid = (l+r) //2
+            if work_chuck(mid) > k:
                 l = mid+1
             else:
-                r = mid
-        return r
-
+                r= mid
+        return l
         # res = []
-        # def dfs(idx, tmpArr, remain):
+        
+        # def dfs(tmpArr,idx,remain):
         #     if remain == 0:
         #         if idx == len(nums):
         #             res.append(tmpArr[:])
         #         return
-
-        #     for i in range(idx, len(nums)):
-        #         tmpArr.append(nums[idx : i + 1])
-        #         dfs(i + 1, tmpArr, remain - 1)
+        #     for i in range(idx,len(nums)):
+        #         tmpArr.append(nums[idx:i+1])
+        #         dfs(tmpArr, i+1 ,remain -1)
         #         tmpArr.pop()
+        # dfs([],0,k)
+        # min_res = float("inf")
+        # for a in res:
+        #     local_max = 0
+        #     for values in a:
+        #         local_max = max(local_max,sum(values))
+        #     min_res = min(min_res,local_max)
 
-        # dfs(0, [], k)
-        # min_split = float("inf")
-        # for r in res:
-        #     local_max = float("-inf")
-        #     for local_val in r:
-        #         local_max = max(local_max,sum(local_val))
-        #     min_split = min(local_max,min_split)
-        # return min_split
+        # return min_res
