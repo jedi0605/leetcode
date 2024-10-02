@@ -144,6 +144,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/jedi0605/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/jedi0605/leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/jedi0605/leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/jedi0605/leetcode/tree/master/0441-arranging-coins) |
@@ -221,6 +222,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jedi0605/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/jedi0605/leetcode/tree/master/0050-powx-n) |
 ## Tree
 |  |
 | ------- |
