@@ -1,11 +1,6 @@
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
-        l,r = -1, len(nums)
-
-        while l+1 !=r:
-            mid = (l+r)//2
-            if nums[mid]<=target:
-                l = mid
-            else:
-                r = mid
-        return l if nums[l] == target else -1
+        s = bisect_left(nums, target)
+        if s == len(nums) or nums[s] != target:
+            return -1
+        return s
