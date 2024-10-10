@@ -46,6 +46,7 @@
 | [1753-path-with-minimum-effort](https://github.com/jedi0605/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/jedi0605/leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jedi0605/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/jedi0605/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Sorting
 |  |
 | ------- |
