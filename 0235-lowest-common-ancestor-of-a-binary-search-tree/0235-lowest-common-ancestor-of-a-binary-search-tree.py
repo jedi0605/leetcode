@@ -5,37 +5,19 @@
 #         self.left = None
 #         self.right = None
 
-
 class Solution:
-    def lowestCommonAncestor(
-        self, root: "TreeNode", p: "TreeNode", q: "TreeNode"
-    ) -> "TreeNode":
-        tmp = root
-
-        while tmp:
-            if p.val > tmp.val and q.val > tmp.val:
-                tmp = tmp.right
-            elif p.val < tmp.val and q.val < tmp.val:
-                tmp = tmp.left
+    def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
+        if p.val > q.val:
+            p,q = q,p
+        print(f"{p.val}, {q.val}")
+        while root:
+            print(root.val)
+            if root.val == p.val or root.val == q.val:
+                return root
+            elif root.val > p.val and root.val < q.val:
+                return root
+            elif root.val > q.val:
+                root = root.left
             else:
-                return tmp
-
-        # def dfs(node : 'TreeNode'):
-        #     if not node:
-        #         return
-        #     if node == p:
-        #         return node
-        #     if node == q:
-        #         return node
-
-        #     left = dfs(node.left)
-        #     right = dfs(node.right)
-        #     if left and right:
-        #         return node
-        #     if left:
-        #         return left
-        #     if right:
-        #         return right
-        # low = dfs(root)
-
-        # return low
+                root = root.right
+        return root
