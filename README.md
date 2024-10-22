@@ -158,6 +158,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/jedi0605/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/jedi0605/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/jedi0605/leetcode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/jedi0605/leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/jedi0605/leetcode/tree/master/0441-arranging-coins) |
 | [0912-random-pick-with-weight](https://github.com/jedi0605/leetcode/tree/master/0912-random-pick-with-weight) |
@@ -204,6 +205,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jedi0605/leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/jedi0605/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jedi0605/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0221-maximal-square](https://github.com/jedi0605/leetcode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/jedi0605/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -269,4 +271,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/jedi0605/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jedi0605/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
