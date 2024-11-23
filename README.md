@@ -14,6 +14,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jedi0605/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jedi0605/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jedi0605/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/jedi0605/leetcode/tree/master/0169-majority-element) |
 | [0221-maximal-square](https://github.com/jedi0605/leetcode/tree/master/0221-maximal-square) |
 | [0274-h-index](https://github.com/jedi0605/leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/jedi0605/leetcode/tree/master/0275-h-index-ii) |
@@ -50,6 +51,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jedi0605/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jedi0605/leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/jedi0605/leetcode/tree/master/0274-h-index) |
 | [0354-russian-doll-envelopes](https://github.com/jedi0605/leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -64,6 +66,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jedi0605/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/jedi0605/leetcode/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/jedi0605/leetcode/tree/master/0383-ransom-note) |
 | [1137-height-checker](https://github.com/jedi0605/leetcode/tree/master/1137-height-checker) |
@@ -73,6 +76,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jedi0605/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/jedi0605/leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/jedi0605/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jedi0605/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/jedi0605/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/jedi0605/leetcode/tree/master/0409-longest-palindrome) |
@@ -188,6 +192,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jedi0605/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/jedi0605/leetcode/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
