@@ -88,6 +88,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/jedi0605/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jedi0605/leetcode/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/jedi0605/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/jedi0605/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/jedi0605/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/jedi0605/leetcode/tree/master/0383-ransom-note) |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/jedi0605/leetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/jedi0605/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jedi0605/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jedi0605/leetcode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/jedi0605/leetcode/tree/master/0367-valid-perfect-square) |
@@ -293,4 +295,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/jedi0605/leetcode/tree/master/0207-course-schedule) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/jedi0605/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/jedi0605/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
