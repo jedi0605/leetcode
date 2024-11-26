@@ -1,30 +1,18 @@
 class Solution:
     def addBinary(self, a: str, b: str) -> str:
-        alen = len(a) - 1
-        blen = len(b) - 1
-        res = deque()
+        i = len(a) - 1
+        j = len(b) - 1
+        s = ""
         carry = 0
-        while alen >= 0 or blen >= 0:
-            tmp = carry
-            if alen >= 0 and a[alen] != "0":
-                tmp += 1
-            if blen >= 0 and b[blen] != "0":
-                tmp += 1
-
-            if tmp == 3:
-                carry = 1
-                res.appendleft("1")
-            elif tmp == 2:
-                carry = 1
-                res.appendleft("0")
-            elif tmp == 1:
-                carry = 0
-                res.appendleft("1")
-            else:
-                carry = 0
-                res.appendleft("0")
-            alen -= 1
-            blen -= 1
-        if carry == 1:
-            res.appendleft("1")
-        return ''.join(res)
+        while i >= 0 or j >= 0 or carry >= 0:
+            if i >= 0:
+                carry += int(a[i])
+                i-=1
+            if j >= 0:
+                carry += int(b[j])
+                j-=1
+            s = str(carry %2) +s
+            carry = carry // 2
+            
+            
+        return s
