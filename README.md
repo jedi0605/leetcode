@@ -25,6 +25,7 @@
 | [0410-split-array-largest-sum](https://github.com/jedi0605/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/jedi0605/leetcode/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jedi0605/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/jedi0605/leetcode/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/jedi0605/leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/jedi0605/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/jedi0605/leetcode/tree/master/0733-flood-fill) |
@@ -144,6 +145,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/jedi0605/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/jedi0605/leetcode/tree/master/0221-maximal-square) |
+| [0542-01-matrix](https://github.com/jedi0605/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/jedi0605/leetcode/tree/master/0733-flood-fill) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jedi0605/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jedi0605/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -222,6 +224,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/jedi0605/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/jedi0605/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/jedi0605/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0542-01-matrix](https://github.com/jedi0605/leetcode/tree/master/0542-01-matrix) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/jedi0605/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jedi0605/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Depth-First Search
@@ -238,6 +241,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/jedi0605/leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/jedi0605/leetcode/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/jedi0605/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/jedi0605/leetcode/tree/master/0733-flood-fill) |
 | [1753-path-with-minimum-effort](https://github.com/jedi0605/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
