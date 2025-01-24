@@ -3,7 +3,8 @@ class Solution:
         minHeap = []
         for x, y in points:
             dis = (x**2) + (y**2)
-            heappush(minHeap, [dis, x, y])
+            minHeap.append( [dis, x, y])
+        heapify(minHeap)
         res = []
         for i in range(k):
             d, x, y = heappop(minHeap)
