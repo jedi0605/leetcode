@@ -14,6 +14,7 @@
 | [0057-insert-interval](https://github.com/jedi0605/leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/jedi0605/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jedi0605/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jedi0605/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jedi0605/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jedi0605/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/jedi0605/leetcode/tree/master/0169-majority-element) |
@@ -177,6 +178,7 @@
 | [0067-add-binary](https://github.com/jedi0605/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jedi0605/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jedi0605/leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jedi0605/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/jedi0605/leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/jedi0605/leetcode/tree/master/0441-arranging-coins) |
 | [0912-random-pick-with-weight](https://github.com/jedi0605/leetcode/tree/master/0912-random-pick-with-weight) |
@@ -267,6 +269,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jedi0605/leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jedi0605/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/jedi0605/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Linked List
 |  |
