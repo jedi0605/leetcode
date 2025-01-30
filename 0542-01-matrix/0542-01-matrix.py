@@ -1,29 +1,29 @@
 class Solution:
     def updateMatrix(self, mat: List[List[int]]) -> List[List[int]]:
-        row = len(mat)
-        col = len(mat[0])
-        res = [[float("inf")] * col for _ in range(row)]
-        diretion = [[1, 0], [0, 1], [-1, 0], [0, -1]]
-
-        print(res)
+        direc = [[0, 1], [1, 0], [0, -1], [-1, 0]]
         visited = set()
+        res = []
         queue = deque()
-        for r in range(row):
-            for c in range(col):
-                if mat[r][c] == 0:
-                    res[r][c] = 0
-                    visited.add((r, c))
-                    queue.append((r, c, 0))
+        for i in range(len(mat)):
+            res.append([])
+            for j in range(len(mat[0])):
+                if mat[i][j] == 0:
+                    res[i].append(0)
+                    visited.add((i, j))
+                    queue.append([i, j])
+                else:
+                    res[i].append(float("inf"))
 
         while queue:
-            cur_r, cur_c, dist = queue.popleft()
-            for d_r, d_c in diretion:
-                new_r, new_c = cur_r + d_r, cur_c + d_c
-                if new_r < 0 or new_r == row or new_c < 0 or new_c == col:
-                    continue
-                if (new_r, new_c) in visited:
-                    continue
-                visited.add((new_r, new_c))
-                queue.append((new_r, new_c, dist+1))
-                res[new_r][new_c] = dist+1
+            for _ in range(len(queue)):
+                c_r, c_c = queue.popleft()
+                for x, y in direc:
+                    if (
+                        0 <= c_r + x < len(mat)
+                        and 0 <= c_c + y < len(mat[0])
+                        and (c_r + x, c_c + y) not in visited
+                    ):
+                        visited.add((c_r + x, c_c + y))
+                        res[c_r + x][c_c + y] = res[c_r][c_c] + 1
+                        queue.append([c_r + x, c_c + y])
         return res
