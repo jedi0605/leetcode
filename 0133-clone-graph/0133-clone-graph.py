@@ -7,22 +7,19 @@ class Node:
 """
 
 from typing import Optional
-
-
 class Solution:
-    def cloneGraph(self, node: Optional["Node"]) -> Optional["Node"]:
-        if not node:
-            return None
+    def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
+        if not node: return None
         clone = {}
-        clone[node] = Node(node.val, [])
+        clone[node] = Node(node.val,[])
         queue = deque()
         queue.append(node)
-
+        
         while queue:
             cur = queue.popleft()
-            for i in cur.neighbors:
-                if i not in clone:
-                    clone[i] = Node(i.val)
-                    queue.append(i)
-                clone[cur].neighbors.append(clone[i])
+            for n in cur.neighbors:
+                if n not in clone:
+                    clone[n] = Node(n.val)
+                    queue.append(n)
+                clone[cur].neighbors.append(clone[n])
         return clone[node]
