@@ -165,6 +165,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/jedi0605/leetcode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/jedi0605/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/jedi0605/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1023-time-based-key-value-store](https://github.com/jedi0605/leetcode/tree/master/1023-time-based-key-value-store) |
@@ -278,6 +279,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/jedi0605/leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jedi0605/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/jedi0605/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/jedi0605/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Linked List
 |  |
