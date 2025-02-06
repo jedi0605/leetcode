@@ -41,6 +41,7 @@
 | [0907-koko-eating-bananas](https://github.com/jedi0605/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/jedi0605/leetcode/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/jedi0605/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/jedi0605/leetcode/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jedi0605/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1083-two-sum-less-than-k](https://github.com/jedi0605/leetcode/tree/master/1083-two-sum-less-than-k) |
 | [1137-height-checker](https://github.com/jedi0605/leetcode/tree/master/1137-height-checker) |
@@ -161,6 +162,7 @@
 | [0221-maximal-square](https://github.com/jedi0605/leetcode/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/jedi0605/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/jedi0605/leetcode/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/jedi0605/leetcode/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jedi0605/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jedi0605/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/jedi0605/leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -274,6 +276,7 @@
 | [0322-coin-change](https://github.com/jedi0605/leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/jedi0605/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/jedi0605/leetcode/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/jedi0605/leetcode/tree/master/1036-rotting-oranges) |
 | [1753-path-with-minimum-effort](https://github.com/jedi0605/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
