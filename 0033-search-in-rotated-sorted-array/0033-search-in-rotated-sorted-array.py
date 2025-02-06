@@ -1,35 +1,35 @@
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
-        def b_search2(start, end):
-            l, r = start -1 , end
-            while l + 1 != r:
-                mid = (l + r) // 2
-                if nums[mid] < target:
-                    l = mid
+        def findPeak():
+            l,r = 0, len(nums)-1
+            if nums[0] < nums[-1] or len(nums)==1:
+                return r
+            while l<=r:
+                mid = (l+r) // 2
+                if nums[mid] > nums[mid+1]:
+                    return mid
+                if nums[mid] >= nums[l]:
+                    l = mid +1
                 else:
-                    r = mid
-            if r == end:
-                return -1
-            return r if nums[r] == target else -1
-
-        ## find smallest index
-        def b_search():
-            l, r = 0, len(nums)
-            while l + 1 != r:
-                mid = (l + r) // 2
-                if nums[mid] > nums[l]:
-                    l = mid
-                else:
-                    r = mid
-            return r
-
-        print(b_search())
-        idx = b_search()
-        start, end = 0, 0
-
-        if nums[0] <= target <= nums[idx - 1]:
-            start, end = 0, idx
+                    r = mid -1
+            return 0
+        peak = findPeak()
+        print(peak)
+        l,r = 0 , len(nums) -1
+        if nums[l] <= target <= nums[peak]:
+            r = peak
         else:
-            start, end = idx, len(nums)
-        print(f"{start},{end}")
-        return b_search2(start, end)
+            l = peak+1
+        print(f"{l},{r}")
+        while l<=r:
+            mid = (l+r) // 2
+            if nums[mid] == target:
+                return mid
+            if nums[mid] < target:
+                l = mid+1
+            else:
+                r= mid -1
+        return -1
+        
+        
+        
