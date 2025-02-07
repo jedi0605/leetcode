@@ -1,22 +1,19 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         res = []
-        tmp_arr = []
+        curArr = []
 
-        def dfs(idx, tmp_arr):
-            s = sum(tmp_arr)
-            if s > target:
+        def backtracking(curSum, idx):
+            if curSum > target or idx == len(candidates):
                 return
-            if s == target:
-                res.append(tmp_arr[:])
+            if curSum == target:
+                res.append(curArr[:])
                 return
-            if idx == len(candidates):
-                return
-            # for i in range(len(candidates)):
-            tmp_arr.append(candidates[idx])
-            dfs(idx, tmp_arr)
-            tmp_arr.pop()
-            dfs(idx + 1, tmp_arr)
 
-        dfs(0, tmp_arr)
+            curArr.append(candidates[idx])
+            backtracking(curSum + candidates[idx], idx)
+            curArr.pop()
+            backtracking( curSum, idx + 1)
+
+        backtracking(0, 0)
         return res
