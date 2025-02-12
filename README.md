@@ -15,6 +15,7 @@
 | [0056-merge-intervals](https://github.com/jedi0605/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jedi0605/leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/jedi0605/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/jedi0605/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jedi0605/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jedi0605/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jedi0605/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0015-3sum](https://github.com/jedi0605/leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/jedi0605/leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/jedi0605/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/jedi0605/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jedi0605/leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/jedi0605/leetcode/tree/master/0274-h-index) |
@@ -204,6 +206,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jedi0605/leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/jedi0605/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/jedi0605/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/jedi0605/leetcode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/jedi0605/leetcode/tree/master/0283-move-zeroes) |
