@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/jedi0605/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/jedi0605/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/jedi0605/leetcode/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/jedi0605/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/jedi0605/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jedi0605/leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/jedi0605/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -171,6 +172,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jedi0605/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/jedi0605/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/jedi0605/leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/jedi0605/leetcode/tree/master/0221-maximal-square) |
@@ -375,6 +377,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jedi0605/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/jedi0605/leetcode/tree/master/0067-add-binary) |
 ## Geometry
 |  |
