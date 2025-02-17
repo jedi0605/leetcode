@@ -323,11 +323,13 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jedi0605/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/jedi0605/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/jedi0605/leetcode/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jedi0605/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/jedi0605/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/jedi0605/leetcode/tree/master/0050-powx-n) |
 ## Tree
 |  |
