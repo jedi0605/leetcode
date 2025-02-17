@@ -1,20 +1,17 @@
 class Solution:
     def partition(self, s: str) -> List[List[str]]:
         res = []
-        sub = []
-        print(s[::-1])
+        tmp = []
 
         def dfs(i):
             if i >= len(s):
-                res.append(sub[:])
+                res.append(tmp[:])
                 return
-
-            for j in range(i, len(s)):
-                subS = s[i : j + 1]
-                if subS == subS[::-1]:
-                    sub.append(subS)
-                    dfs(j + 1)
-                    sub.pop()
-
+            for j in range(i,len(s)):
+                subStr = s[i:j+1]
+                if subStr == subStr[::-1]:
+                    tmp.append(subStr)
+                    dfs(j+1)
+                    tmp.pop()
         dfs(0)
         return res
