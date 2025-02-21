@@ -118,6 +118,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jedi0605/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/jedi0605/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/jedi0605/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/jedi0605/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jedi0605/leetcode/tree/master/0022-generate-parentheses) |
@@ -221,6 +222,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jedi0605/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/jedi0605/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/jedi0605/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/jedi0605/leetcode/tree/master/0125-valid-palindrome) |
@@ -269,6 +271,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jedi0605/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/jedi0605/leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/jedi0605/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jedi0605/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
