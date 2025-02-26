@@ -1,21 +1,14 @@
 class Solution:
     def numOfSubarrays(self, arr: List[int]) -> int:
-        res = 0
-        # for i in range(len(arr)):
-        #     for j in range(i, len(arr)):
-        #         if sum(arr[i : j + 1]) % 2 == 1:
-        #             res += 1
-        cur_sum = 0
-        odd_cnt = 0
-        event_cnt = 0
-        MOD = 10**9 + 7
+        total, res, even_c, odd_c = 0,0,0,0
+        MOD = 10 ** 9 + 7
         for a in arr:
-            cur_sum += a
-            if cur_sum % 2 == 1:
-                res = (1 + event_cnt + res) % MOD
-
-                odd_cnt += 1
+            total +=a
+            if total %2 == 1: # odd
+                odd_c+=1
+                res = (res + 1 + even_c) % MOD
             else:
-                res = (odd_cnt + res) % MOD
-                event_cnt += 1
+                even_c +=1
+                res = (res + odd_c) % MOD
+        
         return res
