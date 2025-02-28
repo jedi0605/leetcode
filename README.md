@@ -75,6 +75,7 @@
 | [2564-most-profitable-path-in-a-tree](https://github.com/jedi0605/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jedi0605/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/jedi0605/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3264-maximum-points-after-enemy-battles](https://github.com/jedi0605/leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
 ## Sorting
 |  |
 | ------- |
@@ -280,6 +281,7 @@
 | [0611-valid-triangle-number](https://github.com/jedi0605/leetcode/tree/master/0611-valid-triangle-number) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/jedi0605/leetcode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/jedi0605/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3264-maximum-points-after-enemy-battles](https://github.com/jedi0605/leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
 ## Prefix Sum
 |  |
 | ------- |
