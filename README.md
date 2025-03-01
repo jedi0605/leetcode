@@ -43,6 +43,7 @@
 | [0611-valid-triangle-number](https://github.com/jedi0605/leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/jedi0605/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/jedi0605/leetcode/tree/master/0721-accounts-merge) |
+| [0723-candy-crush](https://github.com/jedi0605/leetcode/tree/master/0723-candy-crush) |
 | [0733-flood-fill](https://github.com/jedi0605/leetcode/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jedi0605/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/jedi0605/leetcode/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
@@ -207,6 +208,7 @@
 | [0200-number-of-islands](https://github.com/jedi0605/leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/jedi0605/leetcode/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/jedi0605/leetcode/tree/master/0542-01-matrix) |
+| [0723-candy-crush](https://github.com/jedi0605/leetcode/tree/master/0723-candy-crush) |
 | [0733-flood-fill](https://github.com/jedi0605/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/jedi0605/leetcode/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jedi0605/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -254,6 +256,7 @@
 | [0283-move-zeroes](https://github.com/jedi0605/leetcode/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/jedi0605/leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/jedi0605/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0723-candy-crush](https://github.com/jedi0605/leetcode/tree/master/0723-candy-crush) |
 | [1083-two-sum-less-than-k](https://github.com/jedi0605/leetcode/tree/master/1083-two-sum-less-than-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jedi0605/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jedi0605/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -457,6 +460,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/jedi0605/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/jedi0605/leetcode/tree/master/0067-add-binary) |
+| [0723-candy-crush](https://github.com/jedi0605/leetcode/tree/master/0723-candy-crush) |
 | [2551-apply-operations-to-an-array](https://github.com/jedi0605/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Geometry
 |  |
