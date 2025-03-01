@@ -7,18 +7,24 @@ class Solution:
                 nums[i] *= 2
                 nums[i + 1] = 0
         print(nums)
-        # swap 0
-        cur = 0
-        lastZ = -1
-        while cur < len(nums):
-            if nums[cur] == 0 and lastZ == -1:
-                lastZ = cur
-                cur += 1
-            elif nums[cur] != 0 and lastZ != -1:
-                nums[cur], nums[lastZ] = nums[lastZ], nums[cur]
-                cur = lastZ
-                lastZ = -1
-            else:
-                cur += 1
-        print(nums)
+        j = 0
+        for k in range(len(nums)):
+            if nums[k]!=0:
+                nums[k],nums[j]=nums[j],nums[k]
+                j+=1
         return nums
+        # swap 0
+        # cur = 0
+        # lastZ = -1
+        # while cur < len(nums):
+        #     if nums[cur] == 0 and lastZ == -1:
+        #         lastZ = cur
+        #         cur += 1
+        #     elif nums[cur] != 0 and lastZ != -1:
+        #         nums[cur], nums[lastZ] = nums[lastZ], nums[cur]
+        #         cur = lastZ
+        #         lastZ = -1
+        #     else:
+        #         cur += 1
+        # print(nums)
+        # return nums
