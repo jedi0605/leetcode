@@ -76,6 +76,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/jedi0605/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/jedi0605/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jedi0605/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jedi0605/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/jedi0605/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/jedi0605/leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
 ## Sorting
@@ -132,6 +133,7 @@
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/jedi0605/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2107-find-unique-binary-string](https://github.com/jedi0605/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jedi0605/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jedi0605/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
 | ------- |
@@ -261,6 +263,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jedi0605/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jedi0605/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/jedi0605/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jedi0605/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sliding Window
 |  |
 | ------- |
