@@ -252,6 +252,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jedi0605/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/jedi0605/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jedi0605/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2610-closest-prime-numbers-in-range](https://github.com/jedi0605/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/jedi0605/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/jedi0605/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -487,4 +488,8 @@
 | ------- |
 | [0139-word-break](https://github.com/jedi0605/leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/jedi0605/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/jedi0605/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
