@@ -1,13 +1,20 @@
 class Solution:
     def minimumRecolors(self, blocks: str, k: int) -> int:
         min_op = math.inf
-        if len(blocks) == k:
-            cnt = Counter(blocks)            
-            return 0 if cnt["B"]>=k else k - cnt["B"]
-        for i in range(0, len(blocks) - k+1, 1):
-            op = 0
-            for j in range(i, i+k):
-                if blocks[j] != "B":
-                    op += 1
-            min_op = min(op, min_op)
-        return min_op
+        start = blocks[:k]
+        cnt = Counter(start)
+        res = math.inf
+        s = 0
+        e = k - 1
+        while e+1 < len(blocks):
+            res = 0 if cnt["B"] >= k else min(res, k - cnt["B"])
+
+            s_cht = blocks[s]
+            cnt[s_cht] -= 1
+            s += 1
+            e += 1
+            e_cht = blocks[e]
+            cnt[e_cht] += 1
+        res = 0 if cnt["B"] >= k else min(res, k - cnt["B"])
+
+        return res
