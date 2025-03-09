@@ -3,14 +3,12 @@ class Solution:
 
         extend_c = colors + colors[: k - 1]
         dp = [1] * len(extend_c)
+        res = 0
         for i in range(1, len(dp)):
             if extend_c[i - 1] != extend_c[i]:
                 dp[i] += dp[i - 1]
-        print(dp)
-        res = 0
-        for n in dp:
-            if n>=k:
-                res+=1
+            if dp[i] >= k:
+                res += 1
         return res
         # print(extend_c)
         # res = 0
