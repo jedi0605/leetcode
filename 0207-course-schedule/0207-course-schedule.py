@@ -1,26 +1,22 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        courseMap = {}
-        for i in range(numCourses):
-            courseMap[i] = []
-        for c, pre in prerequisites:
-            courseMap[c].append(pre)
-
+        maps = defaultdict(set)
+        for course, pre in prerequisites:
+            maps[pre].add(course)
         visited = set()
 
-        def dfs(course):
-            if courseMap[course] == []:
+        def dfs(start):
+            if len(maps[start]) == 0:
                 return True
-
-            if course in visited:
+            if start in visited:
                 return False
-            visited.add(course)
-
-            for cou in courseMap[course]:
-                if dfs(cou) == False:
+                
+            visited.add(start)
+            for c in maps[start]:
+                if dfs(c) == False:
                     return False
-            visited.remove(course)
-            courseMap[course] = []
+            visited.remove(start)
+            maps[start] = set()
             return True
 
         for i in range(numCourses):
