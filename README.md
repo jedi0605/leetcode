@@ -61,6 +61,7 @@
 | [1137-height-checker](https://github.com/jedi0605/leetcode/tree/master/1137-height-checker) |
 | [1192-divide-chocolate](https://github.com/jedi0605/leetcode/tree/master/1192-divide-chocolate) |
 | [1249-snapshot-array](https://github.com/jedi0605/leetcode/tree/master/1249-snapshot-array) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/jedi0605/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/jedi0605/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jedi0605/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jedi0605/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -206,6 +207,7 @@
 | [1083-two-sum-less-than-k](https://github.com/jedi0605/leetcode/tree/master/1083-two-sum-less-than-k) |
 | [1192-divide-chocolate](https://github.com/jedi0605/leetcode/tree/master/1192-divide-chocolate) |
 | [1249-snapshot-array](https://github.com/jedi0605/leetcode/tree/master/1249-snapshot-array) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/jedi0605/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/jedi0605/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jedi0605/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jedi0605/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
