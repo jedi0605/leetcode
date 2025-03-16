@@ -5,33 +5,21 @@ class Solution:
 
         for i, num in enumerate(nums):
             numToListOfindices[num].append(i)
-        print(numToListOfindices)
-
-        for arr in numToListOfindices.values():
-            m = len(arr)
-
-            if len(arr) == 1:
-                nums[arr[0]] = -1
-                continue
-            for i in range(m):
-                curr_idx_val = arr[i]
-                nex_same_idx = (i + 1) % m
-                pre_same_idx = (i - 1) % m
-                nex_same_idx_val = arr[nex_same_idx]
-                nex_dist = min(
-                    abs(nex_same_idx_val - curr_idx_val),
-                    abs(n - curr_idx_val + nex_same_idx_val),
-                )
-
-                pre_same_idx_val = arr[pre_same_idx]
-                pre_dist = min(
-                    abs(curr_idx_val - pre_same_idx_val),
-                    abs(n - pre_same_idx_val + curr_idx_val),
-                )
-
-                nums[arr[i]] = min(abs(nex_dist), abs(pre_dist))
-
         res = []
-        for i in range(len(queries)):
-            res.append(nums[queries[i]])
+        for q in queries:
+            arr = numToListOfindices[nums[q]]
+            if len(arr) == 1:
+                res.append(-1)
+                continue
+            idx = bisect_left(arr, q)
+            min_dist = float("inf")
+            # Only need to compare pre, next
+            if idx == 0:
+                min_dist = min(arr[idx + 1] - arr[idx], n - arr[-1] + arr[idx])
+            elif idx == len(arr) - 1:
+                min_dist = min(arr[idx] - arr[idx - 1], n - arr[idx] + arr[0])
+            else:
+                min_dist = min(arr[idx + 1] - arr[idx], arr[idx] - arr[idx - 1])
+            res.append(min_dist)            
+
         return res
