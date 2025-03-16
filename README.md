@@ -79,6 +79,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/jedi0605/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/jedi0605/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jedi0605/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/jedi0605/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jedi0605/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/jedi0605/leetcode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jedi0605/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -219,6 +220,7 @@
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/jedi0605/leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jedi0605/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jedi0605/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/jedi0605/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/jedi0605/leetcode/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/jedi0605/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Matrix
