@@ -16,9 +16,10 @@ class UnionFind:
         return True
 
     def find(self, x):
-        if self.parent[x] != x:
-            self.parent[x] = self.find(self.parent[x])  # Path compression
-        return self.parent[x]
+        while self.parent[x] != x:  # Keep moving up until we find the root
+            # self.parent[x] = self.parent[self.parent[x]]  # Path compression
+            x = self.parent[x]  # Move x up one step
+        return x
 
 
 class Solution:
