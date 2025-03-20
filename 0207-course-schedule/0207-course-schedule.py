@@ -16,6 +16,7 @@ class Solution:
                 if have_cyc(nie):
                     return True
             visited.remove(c)
+            maps[c] = []
             return False
 
         for i in range(numCourses):
