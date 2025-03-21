@@ -74,6 +74,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/jedi0605/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/jedi0605/leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2107-find-unique-binary-string](https://github.com/jedi0605/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jedi0605/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jedi0605/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jedi0605/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jedi0605/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -147,6 +148,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jedi0605/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/jedi0605/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2107-find-unique-binary-string](https://github.com/jedi0605/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jedi0605/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jedi0605/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jedi0605/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jedi0605/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -177,6 +179,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jedi0605/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/jedi0605/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2107-find-unique-binary-string](https://github.com/jedi0605/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jedi0605/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/jedi0605/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jedi0605/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/jedi0605/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -491,12 +494,14 @@
 | ------- |
 | [0133-clone-graph](https://github.com/jedi0605/leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/jedi0605/leetcode/tree/master/0207-course-schedule) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jedi0605/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/jedi0605/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jedi0605/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/jedi0605/leetcode/tree/master/0207-course-schedule) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jedi0605/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Bit Manipulation
 |  |
 | ------- |
