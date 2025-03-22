@@ -40,6 +40,6 @@ class Solution:
         count = 0
         for i in range(n):
             if uf.Find(i) == i: # means is root
-                if comp_edge[i] == (comp_size[i] * (comp_size[i]-1) / 2):
+                if comp_edge[i] == (uf.Size[i] * (uf.Size[i]-1) / 2):
                     count+=1
         return count
