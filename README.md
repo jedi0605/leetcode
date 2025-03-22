@@ -390,6 +390,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jedi0605/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/jedi0605/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/jedi0605/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/jedi0605/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -407,12 +408,14 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jedi0605/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/jedi0605/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/jedi0605/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/jedi0605/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/jedi0605/leetcode/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/jedi0605/leetcode/tree/master/0721-accounts-merge) |
 | [1753-path-with-minimum-effort](https://github.com/jedi0605/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2793-count-the-number-of-complete-components](https://github.com/jedi0605/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jedi0605/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Stack
 |  |
@@ -496,6 +499,7 @@
 | [0207-course-schedule](https://github.com/jedi0605/leetcode/tree/master/0207-course-schedule) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jedi0605/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/jedi0605/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/jedi0605/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jedi0605/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
