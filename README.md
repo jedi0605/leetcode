@@ -372,6 +372,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jedi0605/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jedi0605/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/jedi0605/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/jedi0605/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -497,6 +498,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/jedi0605/leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/jedi0605/leetcode/tree/master/0207-course-schedule) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/jedi0605/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jedi0605/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/jedi0605/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/jedi0605/leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -505,6 +507,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/jedi0605/leetcode/tree/master/0207-course-schedule) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/jedi0605/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jedi0605/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Bit Manipulation
 |  |
@@ -539,4 +542,8 @@
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/jedi0605/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/jedi0605/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
