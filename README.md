@@ -93,6 +93,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jedi0605/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/jedi0605/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/jedi0605/leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/jedi0605/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jedi0605/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jedi0605/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3430-count-days-without-meetings](https://github.com/jedi0605/leetcode/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/jedi0605/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Counting Sort
 |  |
 | ------- |
