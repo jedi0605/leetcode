@@ -96,6 +96,7 @@
 | [3483-alternating-groups-ii](https://github.com/jedi0605/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/jedi0605/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/jedi0605/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jedi0605/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Sorting
 |  |
 | ------- |
@@ -357,6 +358,7 @@
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/jedi0605/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jedi0605/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/jedi0605/leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jedi0605/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Randomized
 |  |
 | ------- |
@@ -541,6 +543,7 @@
 | [0723-candy-crush](https://github.com/jedi0605/leetcode/tree/master/0723-candy-crush) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jedi0605/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/jedi0605/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jedi0605/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Geometry
 |  |
 | ------- |
