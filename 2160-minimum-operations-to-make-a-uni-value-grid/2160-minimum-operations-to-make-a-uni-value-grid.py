@@ -1,22 +1,24 @@
 class Solution:
     def minOperations(self, grid: List[List[int]], x: int) -> int:
-        flatArr = []
-        for a in grid:
-            for i in a:
-                flatArr.append(i)
-        flatArr.sort()
-        preMod = flatArr[0] % x
-        for i in flatArr:
-            if i % x != preMod:
+        arr = []
+        for row in grid:
+            for c in row:
+                arr.append(c)
+        arr.sort()
+        checkMod = arr[0] % x
+        for i in arr:
+            if i % x != checkMod:
                 return -1
-        total = sum(flatArr)
-        pre = 0 
+        pre_sum = 0
         res = float("inf")
-        
-        for i in range(len(flatArr)):
-            cost_left = i * flatArr[i] - pre
-            cost_right = total - pre - ((len(flatArr)-i) * flatArr[i])
-            operations = (cost_left+cost_right) //x
-            pre += flatArr[i]
-            res = min(operations,res)
+        total = sum(arr)
+        for i in range(len(arr)):
+            pre_sum += arr[i]
+            left_op = ((arr[i]*(i+1)) - pre_sum) // x
+            
+
+            right_total = total - pre_sum
+            right_len = len(arr) - i - 1
+            right_op = (right_total - (right_len * arr[i])) // x
+            res = min(left_op + right_op, res)
         return res
