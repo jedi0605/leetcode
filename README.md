@@ -89,6 +89,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jedi0605/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/jedi0605/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/jedi0605/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/jedi0605/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/jedi0605/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/jedi0605/leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jedi0605/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -121,6 +122,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jedi0605/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/jedi0605/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/jedi0605/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/jedi0605/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/jedi0605/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/jedi0605/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Counting Sort
@@ -295,6 +297,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jedi0605/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/jedi0605/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/jedi0605/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [3001-apply-operations-to-maximize-score](https://github.com/jedi0605/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/jedi0605/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -351,6 +354,7 @@
 | [0611-valid-triangle-number](https://github.com/jedi0605/leetcode/tree/master/0611-valid-triangle-number) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/jedi0605/leetcode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/jedi0605/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/jedi0605/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/jedi0605/leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
 ## Prefix Sum
 |  |
@@ -450,6 +454,7 @@
 | [0155-min-stack](https://github.com/jedi0605/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/jedi0605/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/jedi0605/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/jedi0605/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Linked List
 |  |
 | ------- |
@@ -568,6 +573,7 @@
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/jedi0605/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/jedi0605/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Shortest Path
 |  |
 | ------- |
@@ -581,4 +587,8 @@
 | [1153-product-sales-analysis-i](https://github.com/jedi0605/leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/jedi0605/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1801-average-time-of-process-per-machine](https://github.com/jedi0605/leetcode/tree/master/1801-average-time-of-process-per-machine) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/jedi0605/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
