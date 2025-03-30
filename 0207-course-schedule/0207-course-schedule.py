@@ -1,25 +1,29 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        maps = defaultdict(list)
-        for cour, pre in prerequisites:
-            maps[cour].append(pre)
+        # maps:
+        # a :
+        # b : 
+        # c : 
+        # d :
+        maps = defaultdict(set)
+        for c, pre in prerequisites:
+            maps[c].add(pre)
         print(maps)
-        visited = set()
 
-        def have_cyc(c):
-            if len(maps[c]) == 0:
-                return False
-            if c in visited:
+        def dfs(n):
+            if len(maps[n]) == 0:
                 return True
-            visited.add(c)
-            for nie in maps[c]:
-                if have_cyc(nie):
-                    return True
-            visited.remove(c)
-            maps[c] = []
-            return False
-
-        for i in range(numCourses):
-            if have_cyc(i):
+            if n in visited:
+                return False
+            visited.add(n)
+            for nei in maps[n]:
+                if dfs(nei) == False:
+                    return False
+            maps[n] = set()
+            return True
+        
+        for n in range(numCourses):
+            visited = set()    
+            if dfs(n) == False:
                 return False
         return True
