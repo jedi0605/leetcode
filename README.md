@@ -192,6 +192,7 @@
 | [0316-remove-duplicate-letters](https://github.com/jedi0605/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/jedi0605/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/jedi0605/leetcode/tree/master/0409-longest-palindrome) |
+| [0516-longest-palindromic-subsequence](https://github.com/jedi0605/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/jedi0605/leetcode/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/jedi0605/leetcode/tree/master/0768-partition-labels) |
 | [1023-time-based-key-value-store](https://github.com/jedi0605/leetcode/tree/master/1023-time-based-key-value-store) |
@@ -402,6 +403,7 @@
 | [0354-russian-doll-envelopes](https://github.com/jedi0605/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/jedi0605/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/jedi0605/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/jedi0605/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/jedi0605/leetcode/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jedi0605/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jedi0605/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
