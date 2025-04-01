@@ -186,6 +186,7 @@
 | [0125-valid-palindrome](https://github.com/jedi0605/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/jedi0605/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/jedi0605/leetcode/tree/master/0139-word-break) |
+| [0161-one-edit-distance](https://github.com/jedi0605/leetcode/tree/master/0161-one-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/jedi0605/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/jedi0605/leetcode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/jedi0605/leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -316,6 +317,7 @@
 | [0075-sort-colors](https://github.com/jedi0605/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/jedi0605/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/jedi0605/leetcode/tree/master/0141-linked-list-cycle) |
+| [0161-one-edit-distance](https://github.com/jedi0605/leetcode/tree/master/0161-one-edit-distance) |
 | [0283-move-zeroes](https://github.com/jedi0605/leetcode/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/jedi0605/leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/jedi0605/leetcode/tree/master/0658-find-k-closest-elements) |
