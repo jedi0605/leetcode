@@ -293,6 +293,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/jedi0605/leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/jedi0605/leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/jedi0605/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jedi0605/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jedi0605/leetcode/tree/master/0070-climbing-stairs) |
@@ -393,6 +394,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jedi0605/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/jedi0605/leetcode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/jedi0605/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/jedi0605/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jedi0605/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/jedi0605/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -613,4 +615,8 @@
 | [0316-remove-duplicate-letters](https://github.com/jedi0605/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/jedi0605/leetcode/tree/master/0496-next-greater-element-i) |
 | [3001-apply-operations-to-maximize-score](https://github.com/jedi0605/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/jedi0605/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
