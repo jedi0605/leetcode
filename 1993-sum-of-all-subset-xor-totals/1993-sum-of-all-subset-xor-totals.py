@@ -15,7 +15,6 @@ class Solution:
                 return
             if idx > len(nums):
                 return
-            # for i in range(idx, len(nums)):
             tmp.append(nums[idx])
             backtracking(idx + 1)
             tmp.pop()
@@ -23,7 +22,6 @@ class Solution:
             return
 
         backtracking(0)
-        print(sub_set)
         res = 0
         for arr in sub_set:
             res += xor_total(arr)
