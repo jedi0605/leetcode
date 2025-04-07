@@ -167,6 +167,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/jedi0605/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1023-time-based-key-value-store](https://github.com/jedi0605/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1160-letter-tile-possibilities](https://github.com/jedi0605/leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jedi0605/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1249-snapshot-array](https://github.com/jedi0605/leetcode/tree/master/1249-snapshot-array) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jedi0605/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jedi0605/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -441,6 +442,7 @@
 | [0733-flood-fill](https://github.com/jedi0605/leetcode/tree/master/0733-flood-fill) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jedi0605/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/jedi0605/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jedi0605/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jedi0605/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/jedi0605/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/jedi0605/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -460,6 +462,7 @@
 | [0733-flood-fill](https://github.com/jedi0605/leetcode/tree/master/0733-flood-fill) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jedi0605/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1036-rotting-oranges](https://github.com/jedi0605/leetcode/tree/master/1036-rotting-oranges) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jedi0605/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jedi0605/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/jedi0605/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/jedi0605/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -510,6 +513,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jedi0605/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/jedi0605/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/jedi0605/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jedi0605/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jedi0605/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/jedi0605/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
@@ -525,6 +529,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jedi0605/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/jedi0605/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/jedi0605/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jedi0605/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jedi0605/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Backtracking
 |  |
