@@ -104,6 +104,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jedi0605/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/jedi0605/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/jedi0605/leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/jedi0605/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/jedi0605/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jedi0605/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Sorting
@@ -180,6 +181,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/jedi0605/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/jedi0605/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/jedi0605/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/jedi0605/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
 | ------- |
