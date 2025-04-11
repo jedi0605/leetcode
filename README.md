@@ -19,6 +19,7 @@
 | [0074-search-a-2d-matrix](https://github.com/jedi0605/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/jedi0605/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/jedi0605/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/jedi0605/leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jedi0605/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jedi0605/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/jedi0605/leetcode/tree/master/0139-word-break) |
@@ -196,6 +197,7 @@
 | [0020-valid-parentheses](https://github.com/jedi0605/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jedi0605/leetcode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/jedi0605/leetcode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/jedi0605/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/jedi0605/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/jedi0605/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/jedi0605/leetcode/tree/master/0139-word-break) |
@@ -275,6 +277,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/jedi0605/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/jedi0605/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/jedi0605/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/jedi0605/leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/jedi0605/leetcode/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/jedi0605/leetcode/tree/master/0542-01-matrix) |
@@ -443,6 +446,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/jedi0605/leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/jedi0605/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/jedi0605/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0133-clone-graph](https://github.com/jedi0605/leetcode/tree/master/0133-clone-graph) |
@@ -556,6 +560,7 @@
 | [0039-combination-sum](https://github.com/jedi0605/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/jedi0605/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/jedi0605/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/jedi0605/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/jedi0605/leetcode/tree/master/0131-palindrome-partitioning) |
 | [1160-letter-tile-possibilities](https://github.com/jedi0605/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jedi0605/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
