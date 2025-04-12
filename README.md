@@ -163,6 +163,7 @@
 | [0242-valid-anagram](https://github.com/jedi0605/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/jedi0605/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/jedi0605/leetcode/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jedi0605/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/jedi0605/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/jedi0605/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/jedi0605/leetcode/tree/master/0721-accounts-merge) |
@@ -208,6 +209,7 @@
 | [0316-remove-duplicate-letters](https://github.com/jedi0605/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/jedi0605/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/jedi0605/leetcode/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jedi0605/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/jedi0605/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/jedi0605/leetcode/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/jedi0605/leetcode/tree/master/0768-partition-labels) |
@@ -361,6 +363,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jedi0605/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jedi0605/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/jedi0605/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jedi0605/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jedi0605/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
