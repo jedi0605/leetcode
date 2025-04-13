@@ -328,6 +328,7 @@
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/jedi0605/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jedi0605/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jedi0605/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/jedi0605/leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jedi0605/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2348-count-number-of-texts](https://github.com/jedi0605/leetcode/tree/master/2348-count-number-of-texts) |
 | [2610-closest-prime-numbers-in-range](https://github.com/jedi0605/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -524,6 +525,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/jedi0605/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/jedi0605/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/jedi0605/leetcode/tree/master/0050-powx-n) |
+| [2050-count-good-numbers](https://github.com/jedi0605/leetcode/tree/master/2050-count-good-numbers) |
 ## Tree
 |  |
 | ------- |
