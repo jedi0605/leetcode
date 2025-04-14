@@ -71,6 +71,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jedi0605/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jedi0605/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/jedi0605/leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1656-count-good-triplets](https://github.com/jedi0605/leetcode/tree/master/1656-count-good-triplets) |
 | [1672-find-the-index-of-the-large-integer](https://github.com/jedi0605/leetcode/tree/master/1672-find-the-index-of-the-large-integer) |
 | [1753-path-with-minimum-effort](https://github.com/jedi0605/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/jedi0605/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -669,6 +670,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/jedi0605/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jedi0605/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/jedi0605/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/jedi0605/leetcode/tree/master/3548-find-the-count-of-good-integers) |
