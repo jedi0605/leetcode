@@ -203,6 +203,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jedi0605/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/jedi0605/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jedi0605/leetcode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/jedi0605/leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/jedi0605/leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/jedi0605/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/jedi0605/leetcode/tree/master/0125-valid-palindrome) |
