@@ -45,6 +45,7 @@
 | [0542-01-matrix](https://github.com/jedi0605/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/jedi0605/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/jedi0605/leetcode/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/jedi0605/leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/jedi0605/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/jedi0605/leetcode/tree/master/0721-accounts-merge) |
 | [0723-candy-crush](https://github.com/jedi0605/leetcode/tree/master/0723-candy-crush) |
@@ -130,6 +131,7 @@
 | [0368-largest-divisible-subset](https://github.com/jedi0605/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0436-find-right-interval](https://github.com/jedi0605/leetcode/tree/master/0436-find-right-interval) |
 | [0611-valid-triangle-number](https://github.com/jedi0605/leetcode/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/jedi0605/leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/jedi0605/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/jedi0605/leetcode/tree/master/0721-accounts-merge) |
 | [1014-k-closest-points-to-origin](https://github.com/jedi0605/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -152,6 +154,7 @@
 | [0169-majority-element](https://github.com/jedi0605/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/jedi0605/leetcode/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/jedi0605/leetcode/tree/master/0383-ransom-note) |
+| [0621-task-scheduler](https://github.com/jedi0605/leetcode/tree/master/0621-task-scheduler) |
 | [1137-height-checker](https://github.com/jedi0605/leetcode/tree/master/1137-height-checker) |
 | [1160-letter-tile-possibilities](https://github.com/jedi0605/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/jedi0605/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -176,6 +179,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/jedi0605/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/jedi0605/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/jedi0605/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/jedi0605/leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/jedi0605/leetcode/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/jedi0605/leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/jedi0605/leetcode/tree/master/0797-rabbits-in-forest) |
@@ -395,6 +399,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/jedi0605/leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/jedi0605/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jedi0605/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/jedi0605/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -418,6 +423,7 @@
 | [0409-longest-palindrome](https://github.com/jedi0605/leetcode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/jedi0605/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/jedi0605/leetcode/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/jedi0605/leetcode/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/jedi0605/leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/jedi0605/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/jedi0605/leetcode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
