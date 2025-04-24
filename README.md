@@ -170,6 +170,7 @@
 | [0133-clone-graph](https://github.com/jedi0605/leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/jedi0605/leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/jedi0605/leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/jedi0605/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/jedi0605/leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/jedi0605/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/jedi0605/leetcode/tree/master/0242-valid-anagram) |
@@ -317,6 +318,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/jedi0605/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/jedi0605/leetcode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/jedi0605/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/jedi0605/leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -557,6 +559,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/jedi0605/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/jedi0605/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/jedi0605/leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/jedi0605/leetcode/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -734,4 +737,8 @@
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/jedi0605/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/jedi0605/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
