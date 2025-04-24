@@ -1,18 +1,20 @@
 class Solution:
     def countCompleteSubarrays(self, nums: List[int]) -> int:
-        target_set = set(nums)
-        target_set_len = len(target_set)
         res = 0
-        for i in range(len(nums)):
-            # build sub arr
-            cur_set = set()
-            for j in range(i,len(nums)):
-                cur_set.add(nums[j])
-                
-                if len(cur_set) == target_set_len:
-                    print(j)
-                    res+= len(nums) - j
-                    break
-        return res
+        target_len = len(set(nums))
+        cnt = Counter() # current sub arr
+        right_pointer = 0
 
+        for l in range(len(nums)):
+            while right_pointer<len(nums) and len(cnt)< target_len:
+                cnt[nums[right_pointer]]+=1
+                right_pointer+=1
+            
+            if len(cnt) == target_len:
+                res += len(nums) - right_pointer +1
+            cnt[nums[l]]-=1
+            if cnt[nums[l]] == 0:
+                del cnt[nums[l]]
+        return res
+        
             
