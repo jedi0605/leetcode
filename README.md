@@ -240,6 +240,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/jedi0605/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/jedi0605/leetcode/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/jedi0605/leetcode/tree/master/0768-partition-labels) |
+| [0886-score-of-parentheses](https://github.com/jedi0605/leetcode/tree/master/0886-score-of-parentheses) |
 | [1023-time-based-key-value-store](https://github.com/jedi0605/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/jedi0605/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/jedi0605/leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -566,6 +567,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/jedi0605/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/jedi0605/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/jedi0605/leetcode/tree/master/0496-next-greater-element-i) |
+| [0886-score-of-parentheses](https://github.com/jedi0605/leetcode/tree/master/0886-score-of-parentheses) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/jedi0605/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/jedi0605/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Linked List
