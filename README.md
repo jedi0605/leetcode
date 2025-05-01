@@ -235,6 +235,7 @@
 | [0139-word-break](https://github.com/jedi0605/leetcode/tree/master/0139-word-break) |
 | [0161-one-edit-distance](https://github.com/jedi0605/leetcode/tree/master/0161-one-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/jedi0605/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0224-basic-calculator](https://github.com/jedi0605/leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/jedi0605/leetcode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/jedi0605/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/jedi0605/leetcode/tree/master/0383-ransom-note) |
@@ -355,6 +356,7 @@
 | [0069-sqrtx](https://github.com/jedi0605/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jedi0605/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jedi0605/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/jedi0605/leetcode/tree/master/0224-basic-calculator) |
 | [0367-valid-perfect-square](https://github.com/jedi0605/leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/jedi0605/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0441-arranging-coins](https://github.com/jedi0605/leetcode/tree/master/0441-arranging-coins) |
@@ -571,6 +573,7 @@
 | [0020-valid-parentheses](https://github.com/jedi0605/leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jedi0605/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/jedi0605/leetcode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/jedi0605/leetcode/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/jedi0605/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/jedi0605/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/jedi0605/leetcode/tree/master/0496-next-greater-element-i) |
@@ -590,6 +593,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/jedi0605/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/jedi0605/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/jedi0605/leetcode/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/jedi0605/leetcode/tree/master/0224-basic-calculator) |
 | [2050-count-good-numbers](https://github.com/jedi0605/leetcode/tree/master/2050-count-good-numbers) |
 ## Tree
 |  |
