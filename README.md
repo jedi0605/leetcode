@@ -245,6 +245,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/jedi0605/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/jedi0605/leetcode/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/jedi0605/leetcode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/jedi0605/leetcode/tree/master/0868-push-dominoes) |
 | [0886-score-of-parentheses](https://github.com/jedi0605/leetcode/tree/master/0886-score-of-parentheses) |
 | [1023-time-based-key-value-store](https://github.com/jedi0605/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/jedi0605/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -396,6 +397,7 @@
 | [0658-find-k-closest-elements](https://github.com/jedi0605/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0723-candy-crush](https://github.com/jedi0605/leetcode/tree/master/0723-candy-crush) |
 | [0768-partition-labels](https://github.com/jedi0605/leetcode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/jedi0605/leetcode/tree/master/0868-push-dominoes) |
 | [1083-two-sum-less-than-k](https://github.com/jedi0605/leetcode/tree/master/1083-two-sum-less-than-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jedi0605/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jedi0605/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -495,6 +497,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/jedi0605/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/jedi0605/leetcode/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jedi0605/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0868-push-dominoes](https://github.com/jedi0605/leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jedi0605/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/jedi0605/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/jedi0605/leetcode/tree/master/1250-longest-common-subsequence) |
