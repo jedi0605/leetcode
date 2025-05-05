@@ -1,12 +1,19 @@
 class Solution:
     def generate(self, numRows: int) -> List[List[int]]:
-        res = []
+        # res = []
+        def dfs(rows):
+            if rows == 1:
+                return [[1]]
 
-        for i in range(numRows):
-            cur_row = [1] * (i+1)
-            print(cur_row)
-            for j in range(1,i):
-                cur_row[j] = res[-1][j-1]+ res[-1][j]
+            tmp = dfs(rows - 1)
+            pre_row = tmp[-1]
+            new_row = [1]
+            for i in range(1, len(pre_row)):
+                new_row.append(pre_row[i - 1] + pre_row[i])
+            print(new_row)
+            new_row.append(1)
+            tmp.append(new_row)
+            return tmp
 
-            res.append(cur_row)
+        res = dfs(numRows)
         return res
