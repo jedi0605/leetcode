@@ -127,6 +127,7 @@
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/jedi0605/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/jedi0605/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jedi0605/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/jedi0605/leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
 | ------- |
@@ -316,6 +317,7 @@
 | [2690-house-robber-iv](https://github.com/jedi0605/leetcode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/jedi0605/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/jedi0605/leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/jedi0605/leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
@@ -575,6 +577,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/jedi0605/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/jedi0605/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jedi0605/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/jedi0605/leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Stack
 |  |
 | ------- |
@@ -686,6 +689,7 @@
 | [2564-most-profitable-path-in-a-tree](https://github.com/jedi0605/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/jedi0605/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jedi0605/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/jedi0605/leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
 | ------- |
