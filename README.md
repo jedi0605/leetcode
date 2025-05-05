@@ -500,6 +500,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/jedi0605/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/jedi0605/leetcode/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jedi0605/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0806-domino-and-tromino-tiling](https://github.com/jedi0605/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/jedi0605/leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jedi0605/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/jedi0605/leetcode/tree/master/1170-shortest-common-supersequence) |
