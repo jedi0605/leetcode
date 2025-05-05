@@ -21,6 +21,7 @@
 | [0078-subsets](https://github.com/jedi0605/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/jedi0605/leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jedi0605/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/jedi0605/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jedi0605/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/jedi0605/leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jedi0605/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -489,6 +490,7 @@
 | [0022-generate-parentheses](https://github.com/jedi0605/leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/jedi0605/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/jedi0605/leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/jedi0605/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jedi0605/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/jedi0605/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/jedi0605/leetcode/tree/master/0139-word-break) |
