@@ -85,6 +85,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/jedi0605/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jedi0605/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/jedi0605/leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2048-build-array-from-permutation](https://github.com/jedi0605/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/jedi0605/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jedi0605/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jedi0605/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -717,6 +718,7 @@
 | [0059-spiral-matrix-ii](https://github.com/jedi0605/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/jedi0605/leetcode/tree/master/0067-add-binary) |
 | [0723-candy-crush](https://github.com/jedi0605/leetcode/tree/master/0723-candy-crush) |
+| [2048-build-array-from-permutation](https://github.com/jedi0605/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jedi0605/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/jedi0605/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jedi0605/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
