@@ -71,6 +71,7 @@
 | [1192-divide-chocolate](https://github.com/jedi0605/leetcode/tree/master/1192-divide-chocolate) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/jedi0605/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1249-snapshot-array](https://github.com/jedi0605/leetcode/tree/master/1249-snapshot-array) |
+| [1325-path-with-maximum-probability](https://github.com/jedi0605/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/jedi0605/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/jedi0605/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jedi0605/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -441,6 +442,7 @@
 | [0658-find-k-closest-elements](https://github.com/jedi0605/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jedi0605/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/jedi0605/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1325-path-with-maximum-probability](https://github.com/jedi0605/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/jedi0605/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/jedi0605/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/jedi0605/leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -694,6 +696,7 @@
 | [0261-graph-valid-tree](https://github.com/jedi0605/leetcode/tree/master/0261-graph-valid-tree) |
 | [0310-minimum-height-trees](https://github.com/jedi0605/leetcode/tree/master/0310-minimum-height-trees) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jedi0605/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/jedi0605/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/jedi0605/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jedi0605/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/jedi0605/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -751,6 +754,7 @@
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jedi0605/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/jedi0605/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/jedi0605/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/jedi0605/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Database
