@@ -1,18 +1,23 @@
 class Solution:
     def minTimeToReach(self, moveTime: List[List[int]]) -> int:
-        m,n = len(moveTime),len(moveTime[0])
-        dist = [[float('inf')]*n for _ in range(m)]
+        m, n = len(moveTime), len(moveTime[0])
+        dist = [[float('inf')] * n for _ in range(m) ] # array for remember smallest time
         dist[0][0] = 0
-        heap = [(0,0,0)] # time, row, col
+        heap = [(0, 0, 0)]  # time, i, j
+        visited = set()
 
         while heap:
-            time,r,c = heappop(heap)
-            if (r,c) == (m-1,n-1): return time
-            for dr,dc in [(1,0),(-1,0),(0,1),(0,-1)]:
-                nr,nc = r+dr,c+dc
-                if 0<=nr<m and 0<=nc<n:
-                    wait_time = max(time, moveTime[nr][nc]) + 1 # condition to move next
-                    if wait_time<dist[nr][nc]:
-                        dist[nr][nc] = wait_time
-                        heappush(heap, (wait_time,nr,nc))
-        return -1
+            cur_time, cur_i, cur_j = heappop(heap)
+            visited.add((cur_i, cur_j))
+            if cur_i == m - 1 and cur_j == n - 1: return cur_time
+
+            for n_r, n_c in [(1, 0), (-1, 0), (0, 1), (0, -1)]:
+                if 0 <= cur_i + n_r < m and 0 <= cur_j + n_c < n:
+                    if (cur_i + n_r, cur_j + n_c) not in visited:
+                        next_time = (
+                            max(moveTime[cur_i + n_r][cur_j + n_c], cur_time) + 1
+                        )
+                        if next_time < dist[cur_i + n_r][cur_j + n_c]:
+                            dist[cur_i + n_r][cur_j + n_c]= next_time
+                            heappush(heap, (next_time, cur_i + n_r, cur_j + n_c))
+        return 0
