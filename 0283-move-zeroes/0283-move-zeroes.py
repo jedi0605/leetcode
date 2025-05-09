@@ -3,11 +3,13 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        last_zero = float("inf")
+        
+        l = -1 # point to first 0
 
         for i in range(len(nums)):
-            if nums[i] == 0:
-                last_zero = min(last_zero, i)
-            elif nums[i] != 0 and last_zero != float("inf"):
-                nums[i], nums[last_zero] = nums[last_zero], nums[i]
-                last_zero += 1
+            # init first 0
+            if nums[i] == 0 and l == -1:
+                l = i
+            elif nums[i] != 0 and l != -1:
+                nums[i],nums[l] = nums[l],nums[i]
+                l = l+1
