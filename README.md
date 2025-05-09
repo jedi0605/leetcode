@@ -272,6 +272,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jedi0605/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jedi0605/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/jedi0605/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/jedi0605/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Binary Search
 |  |
 | ------- |
@@ -397,6 +398,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/jedi0605/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jedi0605/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/jedi0605/leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/jedi0605/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -531,6 +533,7 @@
 | [2348-count-number-of-texts](https://github.com/jedi0605/leetcode/tree/master/2348-count-number-of-texts) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/jedi0605/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jedi0605/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/jedi0605/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -784,6 +787,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jedi0605/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/jedi0605/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/jedi0605/leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/jedi0605/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
 |  |
 | ------- |
