@@ -73,6 +73,7 @@
 | [1192-divide-chocolate](https://github.com/jedi0605/leetcode/tree/master/1192-divide-chocolate) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/jedi0605/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1249-snapshot-array](https://github.com/jedi0605/leetcode/tree/master/1249-snapshot-array) |
+| [1293-three-consecutive-odds](https://github.com/jedi0605/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/jedi0605/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/jedi0605/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/jedi0605/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
