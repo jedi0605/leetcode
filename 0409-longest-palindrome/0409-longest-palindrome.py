@@ -1,17 +1,26 @@
 class Solution:
     def longestPalindrome(self, s: str) -> int:
+        print(1//2)
         cnt = Counter(s)
+
         print(cnt)
-        odd = 0
-        other = 0
-        flag = 0
-        for cht, val in cnt.items():
-            print(f"{cht}, {val}")
+        big_odd_key = ""
+        big_odd_val = 0
+        for key, val in cnt.items():
+            if val % 2 == 1:
+                if big_odd_val < val:
+                    big_odd_key = key
+        res = 0
+        if big_odd_key != "":
+            res += cnt[big_odd_key]
+            cnt[big_odd_key] = 0
+
+        for key, val in cnt.items():
             if val % 2 == 0:
-                other += val
+                res+=cnt[key]
+                cnt[key] = 0
             else:
-                odd += val // 2 * 2                
-                flag = 1
-        
-        return other + odd + flag
-        
+                res+= (cnt[key] // 2) * 2
+        return res
+                
+        # find biggest odd as center
