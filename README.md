@@ -19,6 +19,7 @@
 | [0057-insert-interval](https://github.com/jedi0605/leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/jedi0605/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/jedi0605/leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/jedi0605/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/jedi0605/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/jedi0605/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/jedi0605/leetcode/tree/master/0078-subsets) |
@@ -196,6 +197,7 @@
 | [0001-two-sum](https://github.com/jedi0605/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jedi0605/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jedi0605/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/jedi0605/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jedi0605/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/jedi0605/leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/jedi0605/leetcode/tree/master/0139-word-break) |
@@ -349,6 +351,7 @@
 | [0054-spiral-matrix](https://github.com/jedi0605/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/jedi0605/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/jedi0605/leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/jedi0605/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/jedi0605/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/jedi0605/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/jedi0605/leetcode/tree/master/0200-number-of-islands) |
