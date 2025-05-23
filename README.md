@@ -282,6 +282,7 @@
 | [1250-longest-common-subsequence](https://github.com/jedi0605/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jedi0605/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/jedi0605/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jedi0605/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2107-find-unique-binary-string](https://github.com/jedi0605/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jedi0605/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2348-count-number-of-texts](https://github.com/jedi0605/leetcode/tree/master/2348-count-number-of-texts) |
@@ -457,6 +458,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/jedi0605/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/jedi0605/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jedi0605/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jedi0605/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/jedi0605/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jedi0605/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/jedi0605/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
