@@ -52,6 +52,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/jedi0605/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/jedi0605/leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/jedi0605/leetcode/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/jedi0605/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/jedi0605/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/jedi0605/leetcode/tree/master/0721-accounts-merge) |
 | [0723-candy-crush](https://github.com/jedi0605/leetcode/tree/master/0723-candy-crush) |
@@ -458,6 +459,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jedi0605/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jedi0605/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/jedi0605/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/jedi0605/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jedi0605/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jedi0605/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
