@@ -109,6 +109,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/jedi0605/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jedi0605/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/jedi0605/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jedi0605/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/jedi0605/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/jedi0605/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/jedi0605/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -175,6 +176,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jedi0605/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/jedi0605/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jedi0605/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jedi0605/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/jedi0605/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/jedi0605/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/jedi0605/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -242,6 +244,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jedi0605/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jedi0605/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2348-count-number-of-texts](https://github.com/jedi0605/leetcode/tree/master/2348-count-number-of-texts) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jedi0605/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/jedi0605/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jedi0605/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jedi0605/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -491,6 +494,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/jedi0605/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1325-path-with-maximum-probability](https://github.com/jedi0605/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/jedi0605/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jedi0605/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/jedi0605/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/jedi0605/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/jedi0605/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
