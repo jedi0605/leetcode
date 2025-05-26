@@ -1,14 +1,15 @@
 class Solution:
     def numEquivDominoPairs(self, dominoes: List[List[int]]) -> int:
-        cnt_map = defaultdict(int)
-        for a, b in dominoes:
-            print(f"{a},{b}")
-            if a > b:
-                cnt_map[(b, a)] += 1
-            else:
-                cnt_map[(a, b)] += 1
-
         res = 0
-        for freq in cnt_map.values():
-            res += freq * (freq - 1) // 2
+        maps= defaultdict(int) # pairs
+
+        for a,b in dominoes:
+            if (a,b) in maps:
+                res +=maps[(a,b)]
+                maps[(a,b)] += 1
+            elif (b,a) in maps:
+                res+=maps[(b,a)]
+                maps[(b,a)] += 1
+            else:
+                maps[(a,b)] = 1
         return res
