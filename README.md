@@ -52,6 +52,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/jedi0605/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/jedi0605/leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/jedi0605/leetcode/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/jedi0605/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/jedi0605/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/jedi0605/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/jedi0605/leetcode/tree/master/0721-accounts-merge) |
@@ -524,6 +525,7 @@
 | [0410-split-array-largest-sum](https://github.com/jedi0605/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/jedi0605/leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/jedi0605/leetcode/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/jedi0605/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/jedi0605/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/jedi0605/leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/jedi0605/leetcode/tree/master/0797-rabbits-in-forest) |
