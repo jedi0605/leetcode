@@ -1,17 +1,19 @@
 class Solution:
-    def maxVowels(self, s: str, k: int) -> int:
-        # k is window Size        
+    def maxVowels(self, s: str, k: int) -> int:        
+        s_arr = list(s)
+        res = 0
         vow_cnt = 0
-        max_cnt = 0
         for i in range(k):
-            if s[i] in "aeiou":
-                vow_cnt += 1
-        max_cnt = vow_cnt
-        for i in range(k,len(s)):
-            # remove i-k
-            if s[i] in "aeiou":
-                vow_cnt += 1
-            if s[i-k] in "aeiou":
-                vow_cnt -= 1            
-            max_cnt = max(vow_cnt, max_cnt)
-        return max_cnt
+            if s_arr[i] in "aeiou":
+                vow_cnt +=1
+        res = max(vow_cnt,res)
+
+        for i in range(k,len(s_arr)):
+            pop_cht = s_arr[i-k]
+
+            if pop_cht in "aeiou":
+                vow_cnt-=1
+            if s_arr[i] in "aeiou":
+                vow_cnt+=1
+            res = max(vow_cnt,res)
+        return res
