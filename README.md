@@ -84,6 +84,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jedi0605/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jedi0605/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jedi0605/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/jedi0605/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jedi0605/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jedi0605/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jedi0605/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -485,6 +486,7 @@
 | [0658-find-k-closest-elements](https://github.com/jedi0605/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jedi0605/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jedi0605/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/jedi0605/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jedi0605/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jedi0605/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/jedi0605/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -549,6 +551,7 @@
 | [0410-split-array-largest-sum](https://github.com/jedi0605/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/jedi0605/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0912-random-pick-with-weight](https://github.com/jedi0605/leetcode/tree/master/0912-random-pick-with-weight) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/jedi0605/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jedi0605/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/jedi0605/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2249-count-the-hidden-sequences](https://github.com/jedi0605/leetcode/tree/master/2249-count-the-hidden-sequences) |
