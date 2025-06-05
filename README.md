@@ -104,6 +104,7 @@
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jedi0605/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jedi0605/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jedi0605/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2211-k-radius-subarray-averages](https://github.com/jedi0605/leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2215-finding-3-digit-even-numbers](https://github.com/jedi0605/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jedi0605/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/jedi0605/leetcode/tree/master/2249-count-the-hidden-sequences) |
@@ -492,6 +493,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/jedi0605/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jedi0605/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jedi0605/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2211-k-radius-subarray-averages](https://github.com/jedi0605/leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/jedi0605/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/jedi0605/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jedi0605/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
