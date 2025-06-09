@@ -1,22 +1,20 @@
 class Solution:
     def maxSum(self, nums: List[int], m: int, k: int) -> int:
-        fit_request = []
-        tmp = deque()
-        max_res = 0
+        init_arr = nums[:k]
+        init_sum = sum(init_arr)
+        cnt = Counter(init_arr)
 
-        for i in range(len(nums)):
-            if len(tmp)<k:
-                tmp.append(nums[i])
-            elif len(tmp) == k:
-                check_distinct = True if len(set(tmp)) >= m else False
-                if check_distinct:
-                    # fit_request.append(tmp.copy())
-                    max_res = max(max_res, sum(tmp))
-                tmp.popleft()
-                tmp.append(nums[i])
-        
-        check_distinct = True if len(set(tmp)) >= m else False
-        if check_distinct:
-            max_res = max(max_res, sum(tmp))
-        return max_res
-        
+        max_sum = init_sum if len(cnt) >= m else 0
+        for i in range(k,len(nums)):
+            curr = nums[i]
+            remove_target = nums[i-k]
+            cnt[remove_target] -= 1
+            init_sum -= remove_target
+            if cnt[remove_target] == 0:
+                del cnt[remove_target]
+            cnt[curr]+=1
+            init_sum+=curr
+            if len(cnt) >=m:
+                max_sum = max(max_sum,init_sum)
+        return max_sum
+            
