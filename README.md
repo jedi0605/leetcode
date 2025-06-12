@@ -119,6 +119,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jedi0605/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/jedi0605/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/jedi0605/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jedi0605/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/jedi0605/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/jedi0605/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jedi0605/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -256,6 +257,7 @@
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/jedi0605/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2348-count-number-of-texts](https://github.com/jedi0605/leetcode/tree/master/2348-count-number-of-texts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jedi0605/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jedi0605/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/jedi0605/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jedi0605/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jedi0605/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -498,6 +500,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/jedi0605/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jedi0605/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/jedi0605/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jedi0605/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/jedi0605/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/jedi0605/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/jedi0605/leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
