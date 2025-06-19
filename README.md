@@ -74,6 +74,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jedi0605/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1083-two-sum-less-than-k](https://github.com/jedi0605/leetcode/tree/master/1083-two-sum-less-than-k) |
 | [1137-height-checker](https://github.com/jedi0605/leetcode/tree/master/1137-height-checker) |
+| [1138-grumpy-bookstore-owner](https://github.com/jedi0605/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1192-divide-chocolate](https://github.com/jedi0605/leetcode/tree/master/1192-divide-chocolate) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/jedi0605/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1249-snapshot-array](https://github.com/jedi0605/leetcode/tree/master/1249-snapshot-array) |
@@ -490,6 +491,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/jedi0605/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/jedi0605/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/jedi0605/leetcode/tree/master/0658-find-k-closest-elements) |
+| [1138-grumpy-bookstore-owner](https://github.com/jedi0605/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jedi0605/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jedi0605/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/jedi0605/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
