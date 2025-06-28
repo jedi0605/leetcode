@@ -95,6 +95,7 @@
 | [1656-count-good-triplets](https://github.com/jedi0605/leetcode/tree/master/1656-count-good-triplets) |
 | [1672-find-the-index-of-the-large-integer](https://github.com/jedi0605/leetcode/tree/master/1672-find-the-index-of-the-large-integer) |
 | [1753-path-with-minimum-effort](https://github.com/jedi0605/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1755-defuse-the-bomb](https://github.com/jedi0605/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/jedi0605/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jedi0605/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/jedi0605/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -497,6 +498,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/jedi0605/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jedi0605/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jedi0605/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1755-defuse-the-bomb](https://github.com/jedi0605/leetcode/tree/master/1755-defuse-the-bomb) |
 | [2211-k-radius-subarray-averages](https://github.com/jedi0605/leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/jedi0605/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/jedi0605/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
