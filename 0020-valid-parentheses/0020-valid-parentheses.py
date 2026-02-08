@@ -1,14 +1,18 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        stack = []
-        maps = {")":"(" , "]":"[", "}":"{"}
-        for p in s:
-            if p == "(" or p =="[" or p == "{":
-                stack.append(p)
+        mapping = {}
+        mapping["]"] = "["
+        mapping[")"] = "("
+        mapping["}"] = "{"
+        tracking = []
+        for c in s:
+            if c == "(" or c == "[" or c == "{":
+                tracking.append(c)
             else:
-                if len(stack) == 0 :
+                if len(tracking) < 1:
                     return False
-                c = stack.pop()
-                if maps[p] != c:
+                elif tracking[-1] != mapping[c]:
                     return False
-        return len(stack) == 0
+                else:
+                    tracking.pop()
+        return len(tracking) == 0
