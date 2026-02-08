@@ -326,6 +326,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jedi0605/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/jedi0605/leetcode/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jedi0605/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/jedi0605/leetcode/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/jedi0605/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jedi0605/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/jedi0605/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -713,6 +714,7 @@
 | [1544-make-the-string-great](https://github.com/jedi0605/leetcode/tree/master/1544-make-the-string-great) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/jedi0605/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/jedi0605/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/jedi0605/leetcode/tree/master/3561-resulting-string-after-adjacent-removals) |
 ## Linked List
 |  |
 | ------- |
@@ -844,6 +846,7 @@
 | [2048-build-array-from-permutation](https://github.com/jedi0605/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jedi0605/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/jedi0605/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/jedi0605/leetcode/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jedi0605/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Geometry
 |  |
