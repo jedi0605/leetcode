@@ -307,6 +307,7 @@
 | [0868-push-dominoes](https://github.com/jedi0605/leetcode/tree/master/0868-push-dominoes) |
 | [0886-score-of-parentheses](https://github.com/jedi0605/leetcode/tree/master/0886-score-of-parentheses) |
 | [1023-time-based-key-value-store](https://github.com/jedi0605/leetcode/tree/master/1023-time-based-key-value-store) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jedi0605/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/jedi0605/leetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/jedi0605/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/jedi0605/leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -706,6 +707,7 @@
 | [0678-valid-parenthesis-string](https://github.com/jedi0605/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/jedi0605/leetcode/tree/master/0739-daily-temperatures) |
 | [0886-score-of-parentheses](https://github.com/jedi0605/leetcode/tree/master/0886-score-of-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jedi0605/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/jedi0605/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/jedi0605/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/jedi0605/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
