@@ -315,6 +315,7 @@
 | [1250-longest-common-subsequence](https://github.com/jedi0605/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jedi0605/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/jedi0605/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1544-make-the-string-great](https://github.com/jedi0605/leetcode/tree/master/1544-make-the-string-great) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jedi0605/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2107-find-unique-binary-string](https://github.com/jedi0605/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jedi0605/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -709,6 +710,7 @@
 | [0886-score-of-parentheses](https://github.com/jedi0605/leetcode/tree/master/0886-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jedi0605/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/jedi0605/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1544-make-the-string-great](https://github.com/jedi0605/leetcode/tree/master/1544-make-the-string-great) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/jedi0605/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/jedi0605/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Linked List
