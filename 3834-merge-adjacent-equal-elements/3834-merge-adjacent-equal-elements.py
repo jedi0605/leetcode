@@ -1,11 +1,10 @@
 class Solution:
     def mergeAdjacent(self, nums: List[int]) -> List[int]:
-        stack = []
-        for n in nums:
-            stack.append(n)
-            while len(stack) > 1 and stack[-1] == stack[-2]:
-                stack.pop()
-                stack[-1] *= 2
+        res = []
 
-        # print(nums)
-        return stack
+        for n in nums:
+            res.append(n)
+            while len(res)>1 and res[-1] == res[-2]:
+                res.pop()
+                res[-1]*=2
+        return res
