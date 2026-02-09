@@ -323,6 +323,7 @@
 | [2107-find-unique-binary-string](https://github.com/jedi0605/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jedi0605/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2348-count-number-of-texts](https://github.com/jedi0605/leetcode/tree/master/2348-count-number-of-texts) |
+| [2390-removing-stars-from-a-string](https://github.com/jedi0605/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/jedi0605/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jedi0605/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/jedi0605/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -719,6 +720,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jedi0605/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/jedi0605/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/jedi0605/leetcode/tree/master/1544-make-the-string-great) |
+| [2390-removing-stars-from-a-string](https://github.com/jedi0605/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/jedi0605/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/jedi0605/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/jedi0605/leetcode/tree/master/3561-resulting-string-after-adjacent-removals) |
@@ -854,6 +856,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/jedi0605/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2048-build-array-from-permutation](https://github.com/jedi0605/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jedi0605/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2390-removing-stars-from-a-string](https://github.com/jedi0605/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/jedi0605/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/jedi0605/leetcode/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jedi0605/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
