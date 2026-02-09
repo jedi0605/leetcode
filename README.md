@@ -304,6 +304,7 @@
 | [0678-valid-parenthesis-string](https://github.com/jedi0605/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/jedi0605/leetcode/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/jedi0605/leetcode/tree/master/0768-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/jedi0605/leetcode/tree/master/0844-backspace-string-compare) |
 | [0868-push-dominoes](https://github.com/jedi0605/leetcode/tree/master/0868-push-dominoes) |
 | [0886-score-of-parentheses](https://github.com/jedi0605/leetcode/tree/master/0886-score-of-parentheses) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/jedi0605/leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
@@ -483,6 +484,7 @@
 | [0658-find-k-closest-elements](https://github.com/jedi0605/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0723-candy-crush](https://github.com/jedi0605/leetcode/tree/master/0723-candy-crush) |
 | [0768-partition-labels](https://github.com/jedi0605/leetcode/tree/master/0768-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/jedi0605/leetcode/tree/master/0844-backspace-string-compare) |
 | [0868-push-dominoes](https://github.com/jedi0605/leetcode/tree/master/0868-push-dominoes) |
 | [1083-two-sum-less-than-k](https://github.com/jedi0605/leetcode/tree/master/1083-two-sum-less-than-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jedi0605/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -709,6 +711,7 @@
 | [0496-next-greater-element-i](https://github.com/jedi0605/leetcode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/jedi0605/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/jedi0605/leetcode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/jedi0605/leetcode/tree/master/0844-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/jedi0605/leetcode/tree/master/0886-score-of-parentheses) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/jedi0605/leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jedi0605/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -844,6 +847,7 @@
 | [0059-spiral-matrix-ii](https://github.com/jedi0605/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/jedi0605/leetcode/tree/master/0067-add-binary) |
 | [0723-candy-crush](https://github.com/jedi0605/leetcode/tree/master/0723-candy-crush) |
+| [0844-backspace-string-compare](https://github.com/jedi0605/leetcode/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/jedi0605/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2048-build-array-from-permutation](https://github.com/jedi0605/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jedi0605/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
