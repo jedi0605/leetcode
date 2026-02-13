@@ -290,6 +290,7 @@
 | [0022-generate-parentheses](https://github.com/jedi0605/leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/jedi0605/leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/jedi0605/leetcode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/jedi0605/leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/jedi0605/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/jedi0605/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/jedi0605/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -706,6 +707,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jedi0605/leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/jedi0605/leetcode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jedi0605/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/jedi0605/leetcode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/jedi0605/leetcode/tree/master/0224-basic-calculator) |
