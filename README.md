@@ -166,6 +166,7 @@
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/jedi0605/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/jedi0605/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jedi0605/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3828-final-element-after-subarray-deletions](https://github.com/jedi0605/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/jedi0605/leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
@@ -477,6 +478,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jedi0605/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/jedi0605/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/jedi0605/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3828-final-element-after-subarray-deletions](https://github.com/jedi0605/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -959,4 +961,12 @@
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jedi0605/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/jedi0605/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Brainteaser
+|  |
+| ------- |
+| [3828-final-element-after-subarray-deletions](https://github.com/jedi0605/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
+## Game Theory
+|  |
+| ------- |
+| [3828-final-element-after-subarray-deletions](https://github.com/jedi0605/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 <!---LeetCode Topics End-->
