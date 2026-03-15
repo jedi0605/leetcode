@@ -120,6 +120,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/jedi0605/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jedi0605/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/jedi0605/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2364-count-number-of-bad-pairs](https://github.com/jedi0605/leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jedi0605/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/jedi0605/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jedi0605/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -217,6 +218,7 @@
 | [1635-number-of-good-pairs](https://github.com/jedi0605/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jedi0605/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jedi0605/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2364-count-number-of-bad-pairs](https://github.com/jedi0605/leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jedi0605/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jedi0605/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/jedi0605/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -266,6 +268,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/jedi0605/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/jedi0605/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2348-count-number-of-texts](https://github.com/jedi0605/leetcode/tree/master/2348-count-number-of-texts) |
+| [2364-count-number-of-bad-pairs](https://github.com/jedi0605/leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jedi0605/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jedi0605/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/jedi0605/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -466,6 +469,7 @@
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jedi0605/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jedi0605/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2348-count-number-of-texts](https://github.com/jedi0605/leetcode/tree/master/2348-count-number-of-texts) |
+| [2364-count-number-of-bad-pairs](https://github.com/jedi0605/leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/jedi0605/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/jedi0605/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/jedi0605/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
