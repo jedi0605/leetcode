@@ -167,6 +167,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/jedi0605/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/jedi0605/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/jedi0605/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/jedi0605/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jedi0605/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3805-count-caesar-cipher-pairs](https://github.com/jedi0605/leetcode/tree/master/3805-count-caesar-cipher-pairs) |
 | [3828-final-element-after-subarray-deletions](https://github.com/jedi0605/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
@@ -292,6 +293,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jedi0605/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/jedi0605/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/jedi0605/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/jedi0605/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3805-count-caesar-cipher-pairs](https://github.com/jedi0605/leetcode/tree/master/3805-count-caesar-cipher-pairs) |
 ## String
 |  |
@@ -489,6 +491,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jedi0605/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/jedi0605/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/jedi0605/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/jedi0605/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3805-count-caesar-cipher-pairs](https://github.com/jedi0605/leetcode/tree/master/3805-count-caesar-cipher-pairs) |
 | [3828-final-element-after-subarray-deletions](https://github.com/jedi0605/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Two Pointers
